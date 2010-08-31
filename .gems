@@ -1,5 +1,6 @@
 rdiscount --version 1.5.5
 sinatra
+haml
 rack
 thin 
 activerecord --version 2.3.8 
