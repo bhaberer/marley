@@ -3,7 +3,6 @@ sinatra
 rack
 thin 
 activerecord --version 2.3.8 
-rdiscount 
 builder 
 capistrano
 sqlite3-ruby
