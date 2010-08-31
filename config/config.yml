@@ -14,7 +14,7 @@ admin:
 data_directory: "data"
 
 # Set this to your own theme in "themes" directory
-# theme: "{REPLACE WITH THEME NAME}"
+theme: "faded"
 
 # Google Analytics code ("UA-123132-00" etc)
 ga_code: "UA-8105042-1"
