@@ -1,2 +1,9 @@
 rdiscount --version 1.5.5
 sinatra
+rack
+thin 
+activerecord 
+rdiscount 
+builder 
+capistrano
+sqlite3-ruby
