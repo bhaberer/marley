@@ -2,7 +2,7 @@ rdiscount --version 1.5.5
 sinatra
 rack
 thin 
-activerecord 
+activerecord --version 2.3.8 
 rdiscount 
 builder 
 capistrano
