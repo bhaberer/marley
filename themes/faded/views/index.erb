@@ -2,7 +2,7 @@
 
 <div class="posts">
   <% @posts.each do |post| %>
-    <div>
+    <div class="post">
       <small><%= human_date post.published_on %> &mdash;</small>
       <strong><a href="/<%= post.id %>.html"><%= post.title %></a></strong>
       <span class="perex"><%= post.perex %> (<%= post.comments.size %> comments)</span>
