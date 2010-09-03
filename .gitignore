@@ -1,7 +1,9 @@
+.*.swp
 .DS_Store
 */.DS_Store
 log/*.log
 tmp/**/*
+.sass-cache/**/*
 config/config.remote.yml
 config/deploy.rb
 app/test/fixtures/*.db
