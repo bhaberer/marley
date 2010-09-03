@@ -95,7 +95,7 @@ helpers do
   def authorized?
     return false unless Marley::Configuration.admin.username && Marley::Configuration.admin.password
     @auth ||=  Rack::Auth::Basic::Request.new(request.env)
-    @auth.provided? && @auth.basic? && @auth.credentials && @auth.credentials == [Marley::Configuration.admin.username, Marley::Configuration.admin.password]
+    @auth.provided? && @auth.basic? && @auth.credentials && @auth.credentials == [Marley::Configuration.admin.username, ENV['ADMIN_PASS']]
   end
 
 end
