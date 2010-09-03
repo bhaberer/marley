@@ -1,0 +1,87 @@
+%h2 
+  %a{:href => "/"}
+    = Marley::Configuration.blog.title
+#article
+  .post
+    %h1=h @post.title
+    %span.meta
+      #{human_date @post.published_on}
+      %a{:href => "#comments"}
+        #{@post.comments.size}&nbsp;comments
+      &nbsp;
+      %a{:href => "http://#{hostname}/#{@post.id}/feed", :class => "image"} Feed
+  - if @post.meta['categories']
+    .categories
+      %p
+        %em Categories:
+        = @post.meta['categories'].join(', ')
+  .body= @post.body_html
+  #comments 
+    %h3 Comments
+    - if params[:spam_deleted] && authorized?
+      #spam_deleted
+        .in
+          %p OK, #{params[:spam_deleted]} spam comments deleted.
+
+    - if authorized?
+      <form action="/admin/#{@post.id}/spam" method = "post">
+      %input{:type => "hidden", :name => "_method", :value => "delete"}
+ 
+    - @post.comments.each_with_index do |comment, index|
+      - if params[:thank_you] && comment == @post.comments.last
+        #comment_added_thanks
+          .in
+            %p Thank you for your comment!
+      %div{:class => "comment #{' spam' if comment.spam?}", :id => "comment_#{comment.id}"}
+        - if authorized?
+          .comment_controls
+            %input{:type => "checkbox", :name => "spam_comment_ids[]", :value => comment.id, 
+                   :id => "spam_comment_id_#{comment.id}", :checked => comment.spam? ? "checked" : "unchecked"}
+            %label{:for => "spam_comment_id_#{comment.id}"} Spam?   
+        .number
+          %span.nodisplay # 
+          = index.succ 
+        .author
+          %strong= comment.url ? "<a href=\"#{h(comment.url)}\">#{h(comment.author)}</a>" : h(comment.author)
+          wrote on #{human_date(comment.created_at)}:
+        .message= markup h(comment.body)
+     
+    - if authorized?
+      #admin_panel
+        #admin_panel_content
+          %p MARLEY ADMIN PANEL
+          %p 
+            %input{:type => "submit", :value => "Delete marked comments as spam. Careful."}
+            </form>
+
+    #comment_form
+      .container
+        %h3#add_comment Add Comment
+        %form{:action => "/#{@post.id}/comments#add_comment", :method => "post", 'accept-charset' => "utf-8"}
+          %label.required Your name:
+          %input{:type => "text", :class => "text", :name => "author", :value => "", :id => "author"}
+          %span (required)
+          - if @comment and @comment.errors
+            .error
+              Author #{@comment.errors.on(:author)}
+          %br
+
+          %label.required Your e-mail:
+          %input{:type => "text", :class => "text", :name => "email", :value => "", :id => "email"}
+          %span (required, won't be displayed)
+          - if @comment and @comment.errors
+            .error E-Mail #{@comment.errors.on(:email)}
+          %br
+
+          %label Your website:
+          %input{:type => "text", :class => "text", :name => "url", :value => "", :id => "url"}
+          %br
+  
+          %label Message:
+          %textarea{:name => "body", :rows => "8", :cols => "40"}
+          - if @comment and @comment.errors
+            .error Message #{@comment.errors.on(:body) if @comment}
+            %span{:style => "margin-left: 13.5em"} (Use Markdown syntax)
+          %br
+          %input{:class => "submit", :type => "submit", :value => "Send message &rarr;", :accesskey => "s"}
+    .clear &nbsp;

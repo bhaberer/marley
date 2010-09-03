@@ -6,6 +6,7 @@ $LOAD_PATH.unshift File.join(File.dirname(__FILE__), '..', 'vendor')
 require 'rubygems'
 require 'ftools'
 require 'yaml'
+require 'haml'
 require 'sinatra'
 require 'activerecord'
 require 'rdiscount'
@@ -108,7 +109,7 @@ get '/' do
     @posts = Marley::Post.published
   end
   @page_title = "#{Marley::Configuration.blog.title}"
-  erb :index
+  haml :index
 end
 
 get '/feed' do
@@ -129,7 +130,7 @@ get '/*?/?:post_id.html' do
   @post = Marley::Post[ params[:post_id] ]
   throw :halt, [404, not_found ] unless @post
   @page_title = "#{@post.title} #{Marley::Configuration.blog.name}"
-  erb :post 
+  haml :post 
 end
 
 post '/:post_id/comments' do
@@ -147,7 +148,7 @@ post '/:post_id/comments' do
     redirect "/"+params[:post_id].to_s+'.html?thank_you=#comment_form'
   else
     @page_title = "#{@post.title} #{Marley::Configuration.blog.name}"
-    erb :post
+    haml :post
   end
 end
 
