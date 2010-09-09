@@ -8,10 +8,17 @@ require 'ftools'
 require 'yaml'
 require 'haml'
 require 'sinatra'
-require 'activerecord'
+require 'active_record'
 require 'rdiscount'
 require 'akismetor'
 require 'githubber'
+require 'rack/rewrite'
+
+use Rack::Rewrite do
+  rewrite '/?feed=atom', '/feed'
+  rewrite '/?feed=rss', '/feed'
+  rewrite '/?feed=rss2', '/feed'
+end
 
 def load_or_require(file)
   (Sinatra::Application.environment == :development) ? load(file) : require(file)
@@ -101,6 +108,10 @@ helpers do
 end
 
 # -----------------------------------------------------------------------------
+
+get '/?feed=atom' do
+  redirect '/feed'  
+end 
 
 get '/' do
   if Sinatra::Application.environment == :development
@@ -197,6 +208,7 @@ post '/sync' do
     system "cd #{Marley::Configuration.data_directory}; git pull origin master"
   end
 end
+
 
 get '/about' do
   "<p style=\"font-family:sans-serif\">I'm running on Sinatra version " + Sinatra::VERSION + '</p>'
