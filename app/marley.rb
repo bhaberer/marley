@@ -13,11 +13,10 @@ require 'rdiscount'
 require 'akismetor'
 require 'githubber'
 require 'rack/rewrite'
+require 'syntax'
 
 use Rack::Rewrite do
-  rewrite '/?feed=atom', '/feed'
-  rewrite '/?feed=rss', '/feed'
-  rewrite '/?feed=rss2', '/feed'
+  rewrite %r{/?feed=.+}, '/feed'
 end
 
 def load_or_require(file)
@@ -108,10 +107,6 @@ helpers do
 end
 
 # -----------------------------------------------------------------------------
-
-get '/?feed=atom' do
-  redirect '/feed'  
-end 
 
 get '/' do
   if Sinatra::Application.environment == :development

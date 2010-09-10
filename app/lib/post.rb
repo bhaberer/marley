@@ -97,7 +97,9 @@ module Marley
                                                                                       not options[:only].include? 'perex'
       post[:body]         = body                                                      unless options[:except].include? 'body' or
                                                                                       not options[:only].include? 'body'
-      post[:body_html]    = RDiscount::new( body ).to_html                            unless options[:except].include? 'body_html' or
+     
+      #post[:body_html]    = Haml::Engine.new(body).render                             unless options[:except].include? 'body_html' or
+      post[:body_html]    =  RDiscount::new( body ).to_html                           unless options[:except].include? 'body_html' or
                                                                                       not options[:only].include? 'body_html'
       post[:meta]         = ( meta_content ) ? YAML::load( meta_content.scan( self.regexp[:meta]).to_s ) : 
                                                {} unless options[:except].include? 'meta' or not options[:only].include? 'meta'
@@ -106,6 +108,7 @@ module Marley
                                                                                       not options[:only].include? 'updated_on'
       post[:published]    = !dirname.match(/\.draft$/)                                unless options[:except].include? 'published' or
                                                                                       not options[:only].include? 'published'
+
       return post
     end
     

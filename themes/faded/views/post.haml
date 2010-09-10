@@ -15,7 +15,8 @@
       %p
         %em Categories:
         = @post.meta['categories'].join(', ')
-  .body= @post.body_html
+  .body
+    ~ @post.body_html
   #comments 
     %h3 Comments
     - if params[:spam_deleted] && authorized?

@@ -1,4 +1,4 @@
-rdiscount --version 1.5.5
+rdiscount
 rack-rewrite
 sinatra
 haml
