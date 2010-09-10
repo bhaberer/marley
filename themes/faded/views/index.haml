@@ -3,10 +3,14 @@
 #posts
   - @posts.each do |post|
     .post
+      .image
+        - if post.meta['image']
+          %a{:href => post.meta['image']['link'], :alt => post.meta['image']['name']}
+            %img{:src => post.meta['image']['url']}
       %span.perex
         %span.date 
           #{human_date post.published_on}
           %a{:href => "/#{post.id}.html"}= post.title
         %br
-
-        #{post.perex} (#{post.comments.size} comments)
+        #{post.perex} 
+        %p (#{post.comments.size} comments)

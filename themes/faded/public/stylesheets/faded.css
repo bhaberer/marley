@@ -38,17 +38,20 @@ ul {
   #posts .post {
     height: 200px; }
     #posts .post .date {
-      font-size: 20px;
-      margin-left: 270px; }
+      font-size: 20px; }
     #posts .post .perex {
       font-size: 95%;
-      color: #444; }
-      #posts .post .perex img {
+      color: #444;
+      padding: 17px 10px 10px;
+      width: 460px;
+      float: left; }
+    #posts .post .image {
+      float: left; }
+      #posts .post .image img {
         -moz-box-shadow: 5px 5px 30px black;
-        -webkit-box-shadow: 5px 5px 30px black;
-        box-shadow: 5px 5px 30px black;
-        float: left;
-        margin: -25px 20px 10px 10px;
+        -webkit-box-shadow: 5px 5px 30px grey;
+        box-shadow: 5px 5px 30px grey;
+        margin: 20px 20px 10px 10px;
         border: 0px solid black; }
     #posts .post h3 {
       width: 400px; }

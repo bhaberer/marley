@@ -2,11 +2,15 @@
 categories:
   - blogging
   - life
+image:
+  name:   "Brian at work by weirdo513, on Flickr" 
+  link:    "http://www.flickr.com/photos/weirdo513/4329220213/" 
+  url:  "http://farm5.static.flickr.com/4017/4329220213_bd3139bc3f_m.jpg"
 }}
 
 # Twitter Killed my Blogging (2010/03/08)
 
-<a title="Brian at work by weirdo513, on Flickr" href="http://www.flickr.com/photos/weirdo513/4329220213/"><img src="http://farm5.static.flickr.com/4017/4329220213_bd3139bc3f_m.jpg" alt="Brian at work" width="240" height="161" /></a> I had grand plans for this blog at some point, but I don't really remember what they were. They were probably lost when I dedicated the majority of my online energy to twitter. I think that twitter's low commitment is great for keeping in touch on a surface level, but it makes it so easy for people (i.e. myself) to avoid writing anything of substance while masquerading behind a flood of information. Combined with my laziness, this creates a problem.
+I had grand plans for this blog at some point, but I don't really remember what they were. They were probably lost when I dedicated the majority of my online energy to twitter. I think that twitter's low commitment is great for keeping in touch on a surface level, but it makes it so easy for people (i.e. myself) to avoid writing anything of substance while masquerading behind a flood of information. Combined with my laziness, this creates a problem.
 
 I had grand plans for this blog at some point, but I don't really remember what they were. They were probably lost when I dedicated the majority of my online energy to twitter. I think that twitter's low commitment is great for keeping in touch on a surface level, but it makes it so easy for people (i.e. myself) to avoid writing anything of substance while masquerading behind a flood of information. Combined with my laziness, this creates a problem.
 

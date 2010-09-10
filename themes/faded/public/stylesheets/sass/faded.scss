@@ -6,10 +6,10 @@
   -webkit-border-radius: $radius;
 }
 
-@mixin shadow($x: 0px, $y: 0px, $blur: 10px, $color: black) {
-  -moz-box-shadow: $x $y $blur $color;
-  -webkit-box-shadow: $x $y $blur $color;
-  box-shadow: $x $y $blur $color; 
+@mixin shadow($x: 0px, $y: 0px, $blur: 10px) {
+  -moz-box-shadow: $x $y $blur black;
+  -webkit-box-shadow: $x $y $blur grey;
+  box-shadow: $x $y $blur grey; 
 }
 
 
@@ -59,15 +59,19 @@ ul {
     height:200px;
     .date {
       font-size: 20px;
-      margin-left:270px;
     }
     .perex {
       font-size: 95%;
       color: #444;
+      padding:17px 10px 10px;
+      width:460px;
+      float: left;
+    }  
+    .image {
+      float: left;
       img {
-        @include shadow(5px, 5px, 30px, black);
-        float: left;
-        margin: -25px 20px 10px 10px;
+        @include shadow(5px, 5px, 30px);
+        margin: 20px 20px 10px 10px;
         border: 0px solid black;
       }
     }
