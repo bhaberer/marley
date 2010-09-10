@@ -3,6 +3,8 @@
 */.DS_Store
 log/*.log
 tmp/**/*
+themes/faded/public/stylesheets/.sass-cache/**/*
+themes/faded/public/stylesheets/.sass-cache/*
 .sass-cache/**/*
 config/config.remote.yml
 config/deploy.rb

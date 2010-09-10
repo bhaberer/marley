@@ -1,4 +1,3 @@
-@import 'comment_form.css';
 
 @mixin rounded($radius: 10px) {
   border-radius: $radius;
@@ -44,7 +43,8 @@ pre {
 }
 
 a {
-  color: #104EFF;
+  color: #666666;
+  &:hover { color: #333333}
 }
 
 ul {
@@ -101,6 +101,66 @@ ul {
   }
 }
 
+#comment_form { 
+  color: #444444;
+  label, input.text, textarea {
+    font-size: 95%;
+    text-align: left;
+    width: 20em;
+    padding: 2px;
+    margin-bottom: 15px;
+    display: block;
+    float: left; 
+  }
+  textarea {
+    width: 40em;
+    @include rounded(5px);
+    border:1px solid black;
+    padding:5px;
+  }
+  input.text {
+    padding-left:6px;
+    @include rounded(5px);
+    border:1px solid black;
+  }
+  label { 
+    color: #444;
+    font-size: 85%;
+    text-align: right;
+    width: 12em;
+    padding-right: 10px;
+    padding-top: 0.5em; 
+  } 
+  .required { font-weight: bold; }
+  span { 
+    color: #9d9d9d;
+    font-size: 80%;
+    padding: 0.5em 0 0 0.5em;
+    float: left;  
+  }
+  .error { 
+    font-size: 85%;
+    color: white;
+    background-color: #F3292F;
+    margin: 0 0 0.2em 13em;
+    padding: 0.3em;
+    float: none;
+    clear: both;
+    width: 20%; 
+  }
+  .error label {
+    color: #fb076e;
+    font-weight: bold; 
+  }
+  br { clear: both; }
+  .submit {
+    @include rounded(5px);
+    border:1px solid black; 
+    float: left;
+    margin-left: 35em;
+    padding: 3px 13px; 
+  }
+}
 .comment {
   margin: 1em 0 1em 0;
   border-bottom: 1px solid #fafafa;
