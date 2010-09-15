@@ -16,11 +16,11 @@ image:
 
 Just a few notes on some stupid issues I encountered upgrading Brewtopian to Rails3.
 
-First off, big thanks to [Ryan Bates](http://workingwithrails.com/person/6491-ryan-bates) and his [Railscasts on upgrading to Rails3](http://railscasts.com/episodes/225-upgrading-to-rails-3-part-1). They were were extremely helpful with the overall process. 
+First off, big thanks to [Ryan Bates](http://workingwithrails.com/person/6491-ryan-bates) and his [Railscasts on upgrading to Rails3](http://railscasts.com/episodes/225-upgrading-to-rails-3-part-1). They were extremely helpful with the overall process. 
 
 ### No method <method_name> for <model>:Module, or Why is my Class a Module now?
 
-So, the shift to Rails3 made one kind of transparent, but important change. In the past when you spun up a new rails app, nothing that important could collide with the name of your app. Infact, as far as I know (and I can certainly be wrong here) the name of the app didn't really matter all that much.
+So, the shift to Rails3 made one kind of transparent, but important change. In the past when you spun up a new rails app, nothing that important could collide with the name of your app. In fact, as far as I know (and I can certainly be wrong here) the name of the app didn't really matter all that much.
 
 However, now that name is used in a great many places, on a new app you'll see it no less than 12-15 times.
 
@@ -43,7 +43,7 @@ However, now that name is used in a great many places, on a new app you'll see i
     therails/config/initializers/session_store.rb:# Therails::Application.config.session_store :active_record_store
     therails/Rakefile:Therails::Application.load_tasks
 
-This is all fine and good if you had your app name picked out ahead of time and used something distinctive. However, when I was prototyping [Brewtopian](http://brewtopian.com/) I did not have a name, and used a generic name of 'beer' for the app. Fast-forward to my rails3 upgrade, and I now have 'module Beer' at the top of my application.rb file as part of the rails3 upgrade. This causes problems because this generic name is the same as a class, Beer, that I used in my app. 
+This is all fine and good if you had your app name picked out ahead of time and used something distinctive. However, when I was prototyping [Brewtopian](http://brewtopian.com/) I did not have a name, and used a generic name of 'beer' for the app. Fast-forward to my rails3 upgrade, and I now have 'module Beer' at the top of my application.rb file as part of the rails3 upgrade. This causes problems because this generic name is the same as a class, Beer, which I had used in my app. 
 
 If you hit this issue, you will need to rename your app, and search and replace all the files I mentioned above for any references to the old name. 
 
@@ -68,12 +68,12 @@ Under 3.0.0, this was no longer working. I moved the config to 'config/initializ
 
     ActionMailer::Base.delivery_method = :smtp
     ActionMailer::Base.smtp_settings = {
-      :address => "mail.brewtopian.com",
+      :address => "mail.server.com",
       :port => 587,
-      :domain => "brewtopian.com",
+      :domain => "server.com",
       :authentication => :login,
-      :user_name => "brewtopian@brewtopian.com",
-      :password => "tripeldoubel",
+      :user_name => "user@server.com",
+      :password => "password",
       :enable_starttls_auto => false
     }
 
