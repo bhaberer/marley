@@ -3,6 +3,7 @@ rack-rewrite
 sinatra
 haml
 rack
+syntax
 thin 
 activerecord --version 2.3.8 
 builder 
