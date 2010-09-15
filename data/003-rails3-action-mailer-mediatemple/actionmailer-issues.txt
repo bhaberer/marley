@@ -14,7 +14,9 @@ image:
 
 # Rails3 Upgrade notes (2010/09/15)
 
-Just a few notes on some stupid issues I encountered upgrading Brewtopian to Rails3.
+Just a few notes on some stupid issues I encountered upgrading [Brewtopian](http://brewtopian.com) to Rails3.
+
+These are just a few notes from problems I encountered with my upgrade.
 
 First off, big thanks to [Ryan Bates](http://workingwithrails.com/person/6491-ryan-bates) and his [Railscasts on upgrading to Rails3](http://railscasts.com/episodes/225-upgrading-to-rails-3-part-1). They were extremely helpful with the overall process. 
 
