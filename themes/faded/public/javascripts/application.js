@@ -1,6 +1,11 @@
 // application.js
 
 $(document).ready(function($) {
+  $('pre').addClass('sh_ruby');
+});
+
+
+$(document).ready(function($) {
   twttr.anywhere(function(twitter) {
     twitter.hovercards({ expanded: true });
   });

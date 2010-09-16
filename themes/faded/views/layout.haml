@@ -18,10 +18,14 @@
         })();
     %link{:href => "http://#{hostname}/feed", :rel => "alternate",
           :title => "Feed for #{h(Marley::Configuration.blog.title)}", :type => "application/atom+xml"}
+    %link{:href => 'http://fonts.googleapis.com/css?family=Inconsolata', :rel => 'stylesheet', :type => 'text/css'}
     %script{:type => "text/javascript",
             :src => "http://code.jquery.com/jquery-1.4.2.min.js"}
     %script{:type => "text/javascript", 
             :src => "http://platform.twitter.com/anywhere.js?id=6M5ZrrMRGIMXxIrdnyS38g&amp;v=1"}
+    %script{:type => "text/javascript", :src => "/javascripts/application.js" }
+    %script{:type => "text/javascript", :src => '/javascripts/sh_main.min.js' }
+    %script{:type => "text/javascript", :src => '/javascripts/sh_ruby.min.js' }
     %link{:href => "http://#{hostname}/feed/comments", :rel => "alternate", 
           :title => "Comments for #{h(Marley::Configuration.blog.title)}", :type => "application/atom+xml"}
     - if @post 
@@ -29,7 +33,6 @@
       :title => "Feed for comments on article &ldquo;#{h(@post.title)}&rdquo; #{h(Marley::Configuration.blog.title)}",
       :type => "application/atom+xml"}
     %link{:rel => "stylesheet", :href => "/stylesheets/faded.css", :type => "text/css", :media => "screen"}
-    %script{:src => "/javascripts/application.js", :type => "text/javascript", :charset => "utf-8"}
   %body
     .container
       = yield
