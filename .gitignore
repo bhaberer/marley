@@ -4,6 +4,7 @@
 log/*.log
 tmp/**/*
 data/comments.db
+themes/faded/public/stylesheets/.sass-cache/*/*
 themes/faded/public/stylesheets/.sass-cache/**/*
 themes/faded/public/stylesheets/.sass-cache/*
 .sass-cache/**/*

@@ -17,11 +17,12 @@ A quick run through the steps that I took to get Marley up and running on heroku
 Marley is a super simple blogging tool, and Heroku is a super easy to use webapp host. Uniting the two to creates an elegant blogging solution for those of us who hate typing in textfields. This is an expanded post of what it took to get it running, credit goes to @jkvor for the [initial post on how he got his working](http://jkvor.com/marley-heroku-blogging). I hit some odd issues and deprecations, so I thought I would post a far more verbose guide.
    
 This guide assumes a few things:
+
 - You have accounts on [Heroku](http://heroku.com) and [GitHub](http://github.com).
 - You have used Git before, and have some vague idea of how things work.
 - You're comfortable on the command line, and have some idea how to get a programming environment going. 
 
-%h3 Setting up your own copy of Marley. 
+### Setting up your own copy of Marley. 
 
 You'll want to head over to [http://github.com/karmi/marley](http://github.com/karmi/marley) and fork that repo.
 
