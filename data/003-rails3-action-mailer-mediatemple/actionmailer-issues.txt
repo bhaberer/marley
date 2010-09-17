@@ -14,7 +14,7 @@ image:
 
 # Rails3 Upgrade notes (2010/09/15)
 
-Just a few notes on some stupid issues I encountered upgrading [Brewtopian](http://brewtopian.com) to Rails3.
+Just a few notes on some stupid issues I encountered upgrading Brewtopian to Rails3.
 
 These are just a few notes from problems I encountered with my upgrade.
 
