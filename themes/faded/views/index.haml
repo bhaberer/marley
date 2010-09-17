@@ -13,4 +13,5 @@
           %a{:href => "/#{post.id}.html"}= post.title
         %br
         #{post.perex} 
-        %p (#{post.comments.size} comments)
+        %p 
+          %a{:href => "/#{post.id}.html#disqus_thread"} Comments

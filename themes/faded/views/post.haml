@@ -17,3 +17,17 @@
         = @post.meta['categories'].join(', ')
   .body
     ~ @post.body_html
+  #disqus_thread
+  :javascript
+    /**
+      * var disqus_identifier; [Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread] 
+    */
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://fadedpixels.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  %noscript 
+    Please enable JavaScript to view the 
+    %a{:href => "http://disqus.com/?ref_noscript=fadedpixels"} comments powered by Disqus.
+
