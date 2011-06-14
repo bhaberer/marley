@@ -14,7 +14,8 @@
     .categories
       %p
         %em Categories:
-        = @post.meta['categories'].join(', ')
+        - @post.meta['categories'].each do |cat|
+          %a{:href => "/tags/#{cat}"} #{cat}
   .body
     ~ @post.body_html
   #disqus_thread

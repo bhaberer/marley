@@ -1,5 +1,8 @@
 %h1= Marley::Configuration.blog.title
 
+- if @tag
+  TAG: #{@tag}
+
 #posts
   - @posts.each do |post|
     .post

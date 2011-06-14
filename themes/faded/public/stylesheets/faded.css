@@ -41,7 +41,7 @@ ul {
   width: 750px;
   margin: auto; }
   #posts .post {
-    height: 220px; }
+    height: 220px; clear: both;}
     #posts .post .date {
       font-size: 20px; }
     #posts .post .perex {

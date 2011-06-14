@@ -162,6 +162,12 @@ get '/:post_id/comments' do
   redirect "/"+params[:post_id].to_s+'.html#comments'
 end
 
+get '/tags/:tag' do
+  @posts = Marley::Post.by_tag(params[:tag])
+  @page_title = "#{Marley::Configuration.blog.title} - #{params[:tag]}"
+  haml :index
+end
+
 delete '/admin/:post_id/spam' do
   protected!
   @post = Marley::Post[ params[:post_id] ]
