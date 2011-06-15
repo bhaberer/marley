@@ -1,4 +1,5 @@
 rdiscount
+flickraw
 rack-rewrite
 sinatra
 haml

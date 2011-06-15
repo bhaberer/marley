@@ -14,6 +14,10 @@ require 'akismetor'
 require 'githubber'
 require 'rack/rewrite'
 require 'syntax'
+require 'flickraw'
+
+FlickRaw.api_key = ENV['FLICKR_API']
+FlickRaw.shared_secret = ENV['FLICKR_SECRET']
 
 use Rack::Rewrite do
   rewrite %r{/?feed=.+}, '/feed'

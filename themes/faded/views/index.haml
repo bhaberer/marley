@@ -7,9 +7,15 @@
   - @posts.each do |post|
     .post
       .image
-        - if post.meta['image']
-          %a{:href => post.meta['image']['link'], :alt => post.meta['image']['name']}
-            %img{:src => post.meta['image']['url']}
+        - if post.meta['image_id']
+          - @image = flickr.photos.getInfo(:photo_id => post.meta['image_id'])
+          %a{:href => FlickRaw.url_photopage(@image)}
+            %img{:src => FlickRaw.url_m(@image), :alt => @image.title, :title => @image.title}
+        - elsif post.meta['image']
+          %a{:href => post.meta['image']['link']}
+            %img{:src => post.meta['image']['url'],
+                 :alt => post.meta['image']['name'],
+                 :title => post.meta['image']['name']}
       %span.perex
         %span.date 
           #{human_date post.published_on}
