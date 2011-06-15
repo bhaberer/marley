@@ -69,7 +69,7 @@ helpers do
   end
   
   def human_date(datetime)
-    datetime.strftime('%d|%m|%Y').gsub(/ 0(\d{1})/, ' \1')
+    datetime.strftime('%m|%d|%Y').gsub(/ 0(\d{1})/, ' \1')
   end
 
   def rfc_date(datetime)
@@ -166,9 +166,10 @@ get '/:post_id/comments' do
   redirect "/"+params[:post_id].to_s+'.html#comments'
 end
 
-get '/tags/:tag' do
-  @posts = Marley::Post.by_tag(params[:tag])
-  @page_title = "#{Marley::Configuration.blog.title} - #{params[:tag]}"
+get '/tags/:tags' do
+  @tags = params[:tags].split(',')
+  @posts = Marley::Post.by_tag(@tags)
+  @page_title = "#{Marley::Configuration.blog.title} - #{@tags}"
   haml :index
 end
 

@@ -1,9 +1,8 @@
 %h1= Marley::Configuration.blog.title
 
-- if @tag
-  TAG: #{@tag}
-
 #posts
+  - if @tags 
+    %h3 #{@posts.length} Posts Found Tagged with: #{@tags * ', '}
   - @posts.each do |post|
     .post
       .image

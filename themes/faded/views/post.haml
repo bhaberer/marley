@@ -13,7 +13,7 @@
   - if @post.meta['categories']
     .categories
       %p
-        %em Categories:
+        %em Tags:
         - @post.meta['categories'].each do |cat|
           %a{:href => "/tags/#{cat}"} #{cat}
   .body

@@ -24,9 +24,11 @@ module Marley
         self.find_all options.merge(:draft => false)
       end
 
-      def by_tag(tag)
+      def by_tag(tags)
         Post.all.inject([]) do |result, element| 
-          result << element if !element.categories.nil? && element.categories.include?(tag)
+          unless element.categories.nil?
+            result << element if tags - element.categories == []
+          end
           result
         end
       end
