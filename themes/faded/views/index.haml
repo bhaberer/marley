@@ -2,7 +2,7 @@
 
 #posts
   - if @tags 
-    %h3 #{@posts.length} Posts Found Tagged with: #{@tags * ', '}
+    %h3 #{@posts.length} Posts Found Tagged with: #{h @tags * ', '}
   - @posts.each do |post|
     .post
       .image
