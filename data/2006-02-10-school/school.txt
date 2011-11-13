@@ -1,0 +1,24 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Welcome to the blog that never gets updated! {nid 21G}
+
+Except I'm updating now, Amazing!
+
+'''In Classes?!''' {nid 21H}
+
+:That's right, I have enrolled in classes again. The last time I was in classes was the semester before I met Jenn. This was also the semester I got my promotion to a position that has been riddled with disappointment. {nid 21I}
+:This semester I'm enrolled in [http://www.indiana.edu/~deanfac/blsu105/spea/spea_k300_4862.html SPEA K330] (Elementary Statistics for Public Affairs) and [http://xavier.informatics.indiana.edu/~ehaghver/TEACHING/I201-s06/ INFO I201] (Propositional Logic). These are two of my core requirements, and so I'm going to try and get them out of the way. {nid 21J}
+:I have to say that I enjoy being back in school. Having regular intellectual challenges makes me feel like my mental fortitude is atrophying a might bit slower. It also gives me a reason to walk a lot more than I normally do, which is always good. Being on campus on a fairly regular basis was something I'm realizing that I missed a lot. I do feel a bit out of place these days, as I'm a few years older than the average students in my classes.  But, overall it's a positive thing. {nid 21K}
+
+'''My name is Brian, and I am a consumer whore.''' {nid 21L}
+
+:I recently got an [http://www.apple.com/ipodnano/ iPod Nano]. [[Jenn]] got it for me for Christmas to replace my broken [http://www.neurosaudio.com/ Neuros]. I find that while the Nano is lacking in a few areas, like mic recording, FM transmission, etc. it makes up for that by being dead simple and idiot proof. Plus it has solitaire! {nid 21M}
+:I've also been playing with pod-casting, and while I still maintain that it's an extremely retarded name, I'm enjoying Daily downloads of NPR News, BBC programs, The Onion comedy, and The Al Franken show. It's pretty bad ass. {nid 21N}
+:If I get bored I might write up a review at some point. {nid 21O}
+

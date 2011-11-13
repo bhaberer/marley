@@ -1,0 +1,23 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# More Fun with Console Servers. 
+
+So the console server migration is going swimmingly. I've migrated 50 or so IU servers from the old BSD/OS console servers to the new [http://www.cyclades.com/products/3/alterpath_acs Cyclades ACS units] we have. Right now we are actually running low on console server ports, right now we only have about 20/96 ports open, and I may have to get a new one soon. {nid WW}
+
+Last week I migrated a few of the main web servers (address.iu.edu, people.iu.edu, etc.) and also the 5 webwork machines. Sunday I migrated the CFS/Gate machines over. Lots of fun. I still need to finish migrating the core web servers but I'm waiting on the 7x70' cables I need to be able to do the job. I put in a request to get my own crimper and cabling so I can just run my own cables instead of waiting on the Indy NOC to do them, since we're in the middle of a machine room move up there.  {nid WX}
+
+I've been pulling up old console cabling, mostly from right below the old CS units, it's such a horrible mess. But I've got it cleaned down to sanity... with two boxes full of random Cat5 scraps to show for it. It was like a huge rats nest of cabling coming off of 256 serial consoles.  {nid WY}
+
+I'll be glad when this is all taken care of and I can get back to working on the IMS/Rackview/Visio application I've been working on. I really can't wait for that to be done and in production.  {nid WZ}
+
+Enough about consoles, I got a new toy^Wworkstation to run Linux on today, I was running Debian on an old Dell Optiplex GX1 (400mhx 64mb ram), but it was so slow and sad. I spent the night reinstalling XP on my Windows Dell, and Debian GNU/Linux on my other Dell. It's nice to have two nice fast machines to work on. We're also starting to look into the possibility of doing the IU backups on Disk Arrays. Which would be cool. DLT tapes are no fun. {nid X0}
+
+Now that I've completely bored you, I'll let you continue with your day. {nid X1}
+
+

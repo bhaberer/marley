@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+@date = ARGV[0]
+@name = ARGV[1]
+
+if @date.nil? || @name.nil?
+  puts "You need to specify a name and date!"
+else
+  system("mkdir #{@date}-#{@name}")
+  system("cat skel_entry > #{@date}-#{@name}/#{@name}.txt")
+  system("vim #{@date}-#{@name}/#{@name}.txt")
+  system("touch -d #{@date} #{@date}-#{@name}")
+  system("touch -d #{@date} #{@date}-#{@name}/#{@name}.txt")
+end

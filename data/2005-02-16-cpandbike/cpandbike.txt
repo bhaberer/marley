@@ -1,0 +1,18 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Child's Play Picture.
+
+http://www.penny-arcade.com/docs/gabe/cp_04_3.jpg {nid 1LK}
+
+For some reason that puts a big smile on my face. :) {nid 1LL}
+
+I went biking yesterday, went about 3-4 miles, with a not-very-small chunk of the distance through very thick mud. pedaling through mud is shitty, and I was about dead when I got home... I really got to find a way not to have to bike uphill the whole way home... but I think it's just the breaks from living on top of a hill. :P {nid 1LM}
+
+lots of cleaning today, and we have a guest coming tomorrow... wheee... so much fun :) {nid 1LN}
+

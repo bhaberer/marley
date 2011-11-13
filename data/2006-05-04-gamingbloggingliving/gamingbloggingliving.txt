@@ -1,0 +1,20 @@
+{{
+  categories:
+    - blogging
+    - marriage
+    - school 
+  image_id: 2391576286
+}}
+
+# Gaming, Blogging, Living.
+
+So I think I've decided to go the route of Livejournal embedding into my site.
+
+So I think I've decided to go the route of Livejournal embedding into my site. I'm going to keep the current layout, and adapt it to work with Livejournals new [S2 system](http://www.livejournal.com/doc/s2/history.html) which instead of the old way of marking up weirdly formatted HTML in a Livejournal "Style" you can basically code the entire page from scratch using functions and such. ( [An Example](http://www.livejournal.com/customize/advanced/layersource.bml?id=4472558&fmt=html) ) Very cool, but one side effect of being so cool is that it's taking me a while to learn it, and it all got back-burnered with Finals this week. But I have a staging ground up here: REDACTED it's not done, and it's kind of broken, but eventually it will work out a bit better and mesh well. 
+
+About two weeks ago I went out to Dayton for Jason and Sarah's Reception, it was a lot of good fun, and there are pictures up in the Phone Blog. While we were out there we went into a bookstore and I started flipping through some books on video game programming. And I got really interested really quick... I don't know who really knows this but my informal plan (dream) is to finish my Informatics Degree here at IU, and then travel down to [Full Sail](http://www.fullsail.com/) and obtain a BS in [Game Development](http://www.fullsail.com/flash/index.cfm?degree=game-development). This was something I had kind of dreamed about years ago, but never thought I would ever actually do... I love video games and always wanted to go into Game Dev, but I figured I wouldn't ever escape life as a web monkey or a marginally skilled hacker. But, Jenn didn't realize that I was merely dreaming and is harassing me to get on with my dream... and so in a few years after I finish my IUB degree, I'll be working on getting ready to take on a 21 week intensive gaming program. I really can't wait, every time I go to the site I get all giddy... Like I am now :) 
+
+In other news, the wedding is in about 9 days, sounds like it's going to be a blast. Lots of people are coming, not as many as we had hoped, but the gas prices have proved to be a bit daunting to a lot of people. I finished my Finals, and I think I got Either an A or a high B in both of my classes, so I'm pleased.
+
+Not sure I have much else to blather on about, so I'll stop now. 
+

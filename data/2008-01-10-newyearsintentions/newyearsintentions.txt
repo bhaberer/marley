@@ -1,0 +1,31 @@
+{{
+  categories:
+    - new years
+  image_id: 2238748730
+}}
+
+# New Years Best Intentions.
+
+The following are plans for this Year, I don't know that any of them will actually succeed, but I always try.
+
+The following are plans for this Year, I don't know that any of them will actually succeed, but I always try.
+
+* Learning
+> * Finish Rails Introductory Learning.
+> * Create something useful, not work related in Rails.
+> * Learn at least some Python
+> * Learn how to deal with Managed Code better (svn,svk,etc)
+* School
+> * +20 Credits by the end of the year.
+> * 4.00 average for the year.
+* Hobbies
+> * Pick a DSLR camera and start taking pictures again.
+> * Beat the games that I own that I have gotten near the end of and then stopped playing.
+* Personal Care
+> * Bike once a week at minimum.
+> * Lose some weight.
+> * Start climbing again.
+> * Start cooking again.
+* Other
+> * Make it to Japan this year.
+> * Make plans to travel to Ireland (and maybe other countries) in .09

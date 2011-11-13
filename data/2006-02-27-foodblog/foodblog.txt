@@ -1,0 +1,18 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Foodblog and stuff. 
+
+So in an attempt to loose a little weight before the wedding, I'm going to start keeping track of everything I eat, so as to help me keep track of where I'm eating too much.
+
+So in an attempt to loose a little weight before the wedding, I'm going to start keeping track of everything I eat, so as to help me keep track of where I'm eating too much. Hence, [[foodblog]]. {nid 25B}
+
+I'm working days this week, I have a meeting tomorrow on my Inventory system that I've been working on forever. Being stuck on third shift leaves me less than enthusiastic about programming, since it's not what I'm being paid for, and there is no Shift Differential where I work (Meaning if I work on thirds I get paid the same as if I worked first shifts, which is not normal from what I've been told). SO I come to days periodically to jump start my brain, and get some hacking done on the Inventory Database. Fun huh? {nid 25C}
+
+Off to class I guess. {nid 25D}
+

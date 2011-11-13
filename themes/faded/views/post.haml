@@ -6,8 +6,7 @@
     %h1=h @post.title
     %span.meta
       #{human_date @post.published_on}
-      %a{:href => "#comments"}
-        #{@post.comments.size}&nbsp;comments
+      %a{:href => "/#{@post.id}.html#disqus_thread"} Comments
       &nbsp;
       %a{:href => "http://#{hostname}/#{@post.id}/feed", :class => "image"} Feed
   - if @post.meta['categories']

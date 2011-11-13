@@ -1,0 +1,77 @@
+{{
+  categories:
+    - socialtext
+    - face2face
+    - work
+  image_id: 1751654768
+}}
+
+# Face 2 Face
+
+Reflections on attending the 2007 Socialtext Face2Face in Palo Alto, CA. 
+
+I'm writing (most of) this in the Cincy airport. I would be online, but all the airports have tmobile "pay to use" wifi. Bastards. I spent the past week in San Fran, hanging with coworkers at the most recent Socialtext F2F. A lot of went on is confidential and off the record, but I'm going cover what I can.
+
+I left Bloomington on Monday after having lunch with Jenn at Qdoba. (Sidenote: We both got fairly sick after eating there, and I don't plan on ever eating there again) After I said goodbye I sped up to Indy barely making my flight.
+
+I arrived in SFO around 7pm, and freaked out a little as I had forgotten to figure out how exactly I was going to get from SFO to the hotel in Palo Alto. I ended up calling Ross, Brandon, Matthew's old cell that belongs to a lady who doesn't like me much, Jenn to get more phone numbers, Matthew (the real number this time), and John trying to find out what was the right way to get there. I was tempted to just expense a cab, but I decided I was smart enough to make it there on the CalTrain. So I wandered over to the BART, and hoped over to the connection to the CalTrain. I ended up very narrowly missing the CT, and since it was ~8pm at that point, I had to wait an hour for the train.
+
+I settled in for the wait and I struck up conversation with my fellow platform companions. I talked with a German RFID Engineer and a German Industrial Designer. We had an interesting conversation about art, UI design, wikis, travel, cool places to live, and other randomness. It was very cool. But, the train eventually came, and we piled in.
+
+I got off at Palo Alto, and I tried finding a wireless cloud to get some Google Maps action going. No immediate luck, but I recall that I printed out the hotel's (The Cardinal in PA) wiki page from work, and so I give them a ring. After committing some sketchy directions to memory I find the hotel a few blocks away, I check in and go unpack. After I get unpacked I go downstairs to sign up for teh internets, and I discover employees downstairs hanging out. I sit down and meet Shawn Scantland, Shawn Delvin, Kirsten Jones, and Bill Odem. We shoot the shit for a bit, and then Ingy, Luke, Melissa, Kevin, Marc and Rick came in and introduced themselves. Ingy informs me of impending debauchery, and I find out that I have the room next to his, which proves to have a detrimental effect on my sleep for the rest of the trip, but gave me motivation to be social.
+
+After the people in the lobby all head off to sleep I go head up to my room and then to Ingys, a lot of people were in and out all night, and there was a lot of alcohol and enjoyment. Good times were had by all. But, eventually it was time to head to bed for the coming day ahead.
+
+Woke up fairly early, headed downstairs and wandered across the street to the canonical breakfast establishment. I get some French toast but remember quickly that a) I don't eat breakfast for a reason, and b) the Qdoba poison has not left me entirely. We wander down the street to the office 2.0 were people have started to congregate. We get settled in for the morning's presentation.
+
+(Time Passes)
+
+We break for lunch and Ross starts the planning for open sessions for tues and wed. We use a open format, barcampesque scheduling format for most of the sessions.
+
+I head off first to an hour session where we discuss what we need to do to make the appliance bad ass for our customers. We discuss UI changes, implementing a full time dev team for the appliance, and a few other pressing issues. I think I may try to get into working on some dev work for the appliance, but we'll see how things unfold.
+
+After that session I head over to Office 1.0 where we discuss the retirement of our main wiki workspace because it would be an easy way to get a fresh start and eliminate a lot of the bad blood and past drama. I feel that it would help to purge it if we want to work more as a team. Ross is still in mourning over the loss, and I can understand how it's hard for him to let a wikispace that was a major archival space for the past 5 years vanish in a puff of bits.
+
+I go join the discussion Luke is giving on hacktastic tricks after I get done arguing for the wikispace execution. Luke is showing off a lot of neat little tools like Wikrad, REST, and some firefox tricks. I should start using wikrad, it's pretty bad ass.
+
+We wrap up and head to dinner at an Italian place across the way from the office. We fill up 6 full tables. The food starts coming and doesn't stop, my poor addled intestinal tract can't take it and I have to eat very minor amounts. But that's probably for the better. There were waves and waves of Italian food that was all fairly good. Fried Calamari, Garlic Bread, Salad, Chicken Fettucini Alfredo, Sausage Penne something or other, Chicken Parmesan, Meatballs, and more gallon bottles of Chianti than I could count.
+
+After dinner we all migrate back to office 2.0 were we split into groups and play werewolf. I get killed off early the first game, but I got my revenge in the second game; I was a werewolf and we killed everyone. We moved on to a big group game to finish off the evening, and things started getting crazy. Ross was leading the game, and fairly inebriated, and was getting into the game. It was pretty excellent, and I ended up winning that one as a villager so that was cool.
+
+We hang around and shot the shit for a while, and then I head off to procure liquor with Lyssa, Melissa, George and Brandon. We walk a few blocks to find the store closed, so we stopped by some random sports bar to have a few rounds before we head back to start drinking proper.
+
+Get back to Ingy's room and had a great night. Good energy and wonderful people. Very incriminating photos. Luke tore a phone book in half and Zac shattered a glass.
+
+Up at 9:50 the next morning, shower and run to the office and sit down (out of breath) right at 10:00am. We start the days general presentation.
+
+(Time Passes)
+
+I head to my first open session for the day, Sales 101. I listen to our lead sales guy answer questions and explain the processes behind sales. It was fairly enlightening to see some of the internal mechanics of how the sales team functions.
+
+After this we had reheated Italian while discussing Support Team problems and solutions. It was nice to rant about the simple breakdowns that support faces.
+
+Then I headed over with Paul and talked with a few people about how to make the first 90 days of a new customer's experience smoother.
+
+After that, I attended Ingy's UI - Sales team face off where the UI team polled the sales team for what felt like the most important UI problems of late. It was kind of interesting to hear what the customers want the most.
+
+I headed over to hear about skins from Lyssa last, but the session kind of broke down, and we all kind of wandered off. I socialized for the next few hours with a multitude of people while waiting for our dinner group to finish up their loose ends. Ingy and Zac vanish on a quest for liquors to drunken, and no one seems to know where they actually went. We head to a vegetarian Thai place for dinner, and wander around lost for a bit before someone decided to call someone who knows where the fuck the place is actually located.
+
+We sit down across the way from the other group (we came in shifts to be less mean), and we sit down to order. I'm immediately accosted by ShawnD who informs me of an impending switch to Bugzilla that the devs are going to engage in tonight while drunk. I'm mildly concerned, but I don't care that much.
+
+Someone checks twitter. [Sees this post](http://twitter.com/#!/lizhenry/statuses/344139762) I get concerned for the state of my chocolate.
+
+We eat, it's yummy, and we head back to the hotel. Sure enough, my room has been invaded; Matthew, Luke, Kevin, Liz and ShawnD are camped out installing bugzilla. Matthew evidently climbed into my window thinking it was Ingy's. I dump my stuff sigh at them, and head to Ingy's room. We drink a lot, and start watching the life Aquatic. I don't think anyone cares except Ingy and I. Philistines.
+
+I fall asleep in my chair, and wake up around 5 to see most everyone has either passed out or left. I gather my crap and go back to my room and head to sleep. I wake up the next morning and head down to the office.
+
+I meet up with Matthew, and after I wake up we head back to SF to hang out for the day. We hop on the CalTrain right as it leaves, sans tickets (no time to buy them). We get harassed by the conductor about hopping on at the last second. And he wanders off w/o asking for tickets. he comes back in like 15m asking for everyone's tickets and gives us an eye roll when we tell him we don't have them, but doesn't give us a ticket. Whew!
+
+We transfer to the BART and drop Kevin off at the airport. Matthew and I head back to his place and relax for a bit. Beth's home and we talk a bit before heading to grab some food from a nice little place called Toast. It was very tasty. We head back and talk for a while about what I want to see in SF, and I decide that relaxing sounds better than being a tourist, so we chill and I show Matthew portal, which he seems to dig. We futz around with some games for a few hours and then we go grab some excellent Vegan Japanese at this place called Cha-Ya. It was excellent!
+
+We drop Beth off to hang out with a friend and Matthew and I drive around and talk a bit about city life, and work, and other randomness. We drive up to the highest point in the city for a nice view of the bay and the Golden Gate Bridge.
+
+Head back to Matthew's place to grab the bags, and we head to the airport.
+
+I had a great stay in PA/SF, even if I didn't get to see much of the Bay area.
+
+Maybe next time I visit.

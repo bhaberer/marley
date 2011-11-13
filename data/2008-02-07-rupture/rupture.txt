@@ -1,0 +1,22 @@
+{{
+  categories:
+    - rupture
+  image_id: 2752177711
+}}
+
+# Rupture
+
+Short entry about the Rupture service.
+
+Rupture is a company that runs a gaming aggregation site. I've been beta testing the service since it debuted, mostly because the mash-up of social software and video games makes me giddy.
+
+The company was started by Shawn Fanning of Napster and SnoCap fame. Their first incarnation was simply a Worldof Warcraft social networking site. However, with the advent of the Armory their web 2.0 societal niche was co-opted! Never one to give up on an idea, they revamped the service, made it game agnostic and relaunched the site as less of a social network, and more of a front end for displaying all the gaming data event points in your online life.
+
+Currently, the site is still in heavy beta, but they currently support:
+
+* Steam Accounts
+* World of Warcraft Characters
+* XBL Accounts
+* Halo3 Accounts
+
+If anyone is interested in getting in on the beta, let me know. 

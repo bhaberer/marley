@@ -1,0 +1,36 @@
+{{
+  categories:
+    - school
+    - Nintendo
+    - warcraft
+    - telecommuting
+  image_id: 5835219955
+}}
+
+# A Minor in Futility 
+
+The post in which I'm emo about school and hate everything.
+
+I know I missed last week's Indie game of the week, I'm working on a two game article for this week! I was far too busy last week playing Super Smash Brothers Brawl (SSBB) to do much in the way of writing.
+
+Speaking of which, my Nintendo Friend Code for SSBB is 0044-2462-1847. If you add me, let me know in the comments or in an email.
+
+Meanwhile, in the life of Brian, things have been fairly sedate. Last week my wife left me alone for a few days, while she traveled down to her mother's place in Texas. I spent most of the time playing games, most notably SSBB. The week was a wonderful, momentary reprieve from school as it was spring break.
+
+<rant>
+
+This break sort of helped crystallize my contempt for the state of my education. I'm 40 credits (34 after this semester) away from a degree in Informatics. At this point I've pretty much given up on that ever being considered even remotely close to a 'real' computing degree. At one point it was sold to me as such. However, more and more as I take the classes and get A's without study or having to read material, I have come to decide that, for someone like me, that it's become a form of academic masturbation. I go to class, get taught something over the course of a semester that would have taken me a week to learn on my own. Get a decent grade. Learn nothing of consequence. Lather, rinse, repeat.
+
+I 'should' be done in Christmas of 2009, assuming that they decide to teach the classes that I need to take (another sore spot) to graduate. Then I'll finally have a degree that feels like it will be about as useful for getting a job as a philosophy degree.
+
+So, right now I have about two years of class work at the tune of about $10k-$14k. For a degree that I'm not convinced will be that useful (I know that any degree has a level of intrinsic usefulness), and during the interim the majority of my motivation (to work on learning things that are useful, like Ruby or Python) and free time get sucked into worrying about classes, and completing inane projects or tests.
+
+I think the catalyst for this rant was yet another ping from friends about interest in a really cool job, but I'm stuck here so it's not even remotely an option. Don't misread, I'm happy at Socialtext and have no plans on going anywhere anytime soon, it's just an example of doors being closed before I even have a chance to really consider them because of my commitment to getting this inane degree.
+
+I'm going to keep plugging away at this for now, but man it's really starting to wear on my nerves... and, the 19 year old undergrads are not helping.
+
+</rant>
+
+I've started playing Warcraft a bit again. I'm not enjoying the parts that I used to. I transferred to the Blackrock server to raid with a guild that raids late night, and was at the same progression level (Read: they had killed all the same bosses) that I was at with my old guild that broke up. However, about 3 days after I transferred the guild died, and became a different guild. I'm fairly pissed off about the whole situation. I was sold a guild raiding at a certain level, and got a guild learning content I'm used to sleeping through. It's very frustrating, and I find the only reason I play is to kill time, which is a bad sign. I'm going to try and figure something out, for the current time I'm happy with working on collecting gold so I can get my druid's Epic Flight Form.
+
+I have been working at ways to keep me plugged in at work, without getting distracted by the mundane distractions of working at home. I've found music to be a great hook into staying focused, however for it to properly mask the distractions; it has to be at a level where Jenn can no longer study. So either I sit in silence constantly distracted and getting nothing done or Jenn hates me and gets nothing done. I have some portable Sony MDR-066s that I use when I'm out and about but they fail for serious listening as their small size make them convenient, but their sound reproduction is fairly lame. So, I decided to look into some really nice isolating headphones. I decided on some Sennheiser HD 280 Pros and I look forward to having a pair of really nice headphones that I can crank up without driving Jenn insane.

@@ -1,0 +1,21 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Jenn has moved.
+
+So the last few days have been spent slaving, err I mean happily working to get [[Jenn]] moved from the apartment into the Condo. IT was a lot of moving and car trips between the two places but we are finally finished! So that's cool.
+
+So the last few days have been spent slaving, err I mean happily working to get [[Jenn]] moved from the apartment into the Condo. IT was a lot of moving and car trips between the two places but we are finally finished! So that's cool.
+
+Sunday JoeBlaylock, AnamiSheppard, and BrettSmith came and helped us move the big furniture. I had fun even tho I had to drive the largest vehicle I've ever driven, a 17' UHaul truck. It was a bit of a pain, since I was kind of low on sleep, having had been up all Saturday, and worked all night. Sheesh :)
+
+[[Jenn]] and I celebrated finishing the move last night with a trip to Asuka.  It was a good time. Today I bummed around the Condo a bit, and we put together Jenn's new bed. It's pretty damn cool.
+
+I'm working on the new laptop a lot. It's coming along. I'm struggling with Linux's overall brokenness coupled with IU's love of Microsoft. I think I finally got my ConnectScript working. So that's good. having working IU wireless is a big win. I'm hoping to be done with the IMS stuff soon so I can start working on populating the database.
+
+That's it for now. Have a great week people.

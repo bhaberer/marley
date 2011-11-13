@@ -1,0 +1,36 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# My new LCD.
+
+So I have been contemplating getting a new LCD for a while. I was going back and forth between a [http://www.newegg.com/Product/Product.asp?Item=24-116-285&catalog=23&manufactory=BROWSE ViewSonic VP201B] and a [http://accessories.us.dell.com/sna/ProductDetail.aspx?c=us&l=en&cs=2234&sku=320-1578&category_id=4009 Dell 2001FP]. I had decided on the Dell, because I had seen one at work at UITS and I fell in love. {nid 1RT}
+
+That was until I stumbled upon [http://www.anandtech.com/displays/showdoc.aspx?i=2400 this rather glowing review] on [http://www.anandtech.com/ AnandTech] of the new 2005FPW. Price check showed the new one at 50 less than the old dell, so I ordered it.  {nid 1RU}
+
+It came the other day and I'm very happy with it. {nid 1RV}
+
+Ok, so I'm giddy like a school girl, Jenn's making fun of me again.  {nid 1RW}
+
+But it is so beautiful: {nid 1RX}
+
+http://weirdo513.org/2005fpw-1.jpg {nid 1RY}
+
+Winamp Visualization. {nid 1RZ}
+
+http://weirdo513.org/2005fpw-pip.jpg {nid 1S0}
+
+Picture in Picture. {nid 1S1}
+
+http://weirdo513.org/2005fpw-pbp.jpg {nid 1S2}
+
+Picture Beside Picture. {nid 1S3}
+
+http://weirdo513.org/2005fpw-dvd.jpg {nid 1S4}
+
+Lord of the rings in it's finest. {nid 1S5}
+

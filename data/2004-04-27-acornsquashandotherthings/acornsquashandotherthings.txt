@@ -1,0 +1,23 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Acorn Squash.
+
+Last night I made dinner for [[Jenn]], TimCarper, and KirstenHaberer.  It was nice. I made Baked Acorn Squash (AcornSquashRecipe), and served rice and French Bread with the squash. The meal was very nice, I also got some Oliver wine since [[Jenn]] had never tried it.
+
+Last night I made dinner for [[Jenn]], TimCarper, and KirstenHaberer.  It was nice. I made Baked Acorn Squash (AcornSquashRecipe), and served rice and French Bread with the squash. The meal was very nice, I also got some Oliver wine since [[Jenn]] had never tried it.
+
+TimCarper pitched in and helped out a lot, he even came up with dessert, which was melted chocolate and strawberries. Yum. We sat around and talked for a while, eventually Kirsten needed to head home, and [[Jenn]] needed to as well. But, all in all a good dinner. 
+
+Work was fairly blah, I spent most of the night running console cabling for the CFS and Gate machines. Fun stuff. I think I'm going to have ti go do a change management thing if we have to take the machines down to switch out the consoles. Oh well.
+
+Today Jenn and I went climbing, She bought a pass for the summer so we're going to try and get climbing more often. She's almost doing 5.8s, she knocked out the 5.7 / 5.8 that had been giving her problems. and that was awesome.
+
+Tonight we're still debating about what will be for dinner... maybe an artichoke and something else... who knows. :) Hope everyone is having  nice time.
+
+And good thoughts to TimCarper and BrettSmith who are working hard to graduate.

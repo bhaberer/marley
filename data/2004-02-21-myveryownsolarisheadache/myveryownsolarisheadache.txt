@@ -1,0 +1,17 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# External 2 SCSI drives are pimp.
+
+So at work yesterday I got my very first Solaris box. It's an old Sparc Station, and it's providing me with nothing but headaches at the moment. Booting it cold gives me an OK prompt which I guess I'm supposed to boot from, but since I have no net connection or cdrom and typing "boot disk" or "boot" gives me disk read errors... I'm kind of fucked. I did manage to get it to boot to CDE... somehow... I wandered off to talk to BrettSmith about how much fun I was having and when I got back to the box it was in CDE... wtf.... {nid D}
+
+I stole some Solaris8 books from JoeBlaylock's KnowledgeBase racks here in the MachineRoom, they didn't help much, they just keep saying to but the cd in the cdrom... well I wish it was that easy.. stupid Solaris. {nid E}
+
+I guess I'll see if I can get some help from some of the CanonicalHackers or one of the Unix masters at work. I don't know why they won't just let me unpack one of the new SunBlade150 machines they got to replace the old OmniBack nodes that we are retiring soon. They have cdroms! ah yes, new technology, how I love you. {nid F}
+
+

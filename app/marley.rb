@@ -139,7 +139,7 @@ get '/*?/?:post_id.html' do
   protected! if params[:splat].first == 'admin'
   @post = Marley::Post[ params[:post_id] ]
   throw :halt, [404, not_found ] unless @post
-  @page_title = "#{@post.title} #{Marley::Configuration.blog.name}"
+  @page_title = "#{Marley::Configuration.blog.name} - #{@post.title}"
   haml :post 
 end
 

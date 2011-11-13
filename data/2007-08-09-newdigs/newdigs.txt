@@ -1,0 +1,74 @@
+{{
+  categories:
+    - socialtext
+  image_id: 5838665752
+}}
+
+# New Digs
+
+On my first days at Socialtext.
+
+So it’s been a week since I started working for the fine folks at Socialtext. It’s been an interesting, if humbling, few days. I am going to repost some of my blogging that I’ve been doing internally. I might move my ST Blog to an externally readable location at some point.
+
+Expect more posting here in the new future as I figure this Markdown crap out.
+
+08.02.07
+========
+
+Second day here.
+
+Yesterday I was a little damp from sucking the fire hose that is the information flow around here to really put together anything resembling a coherent thought, much less a blog post.
+
+So here I am, working from home at a startup in an industry I love. I’ve been thrown screaming from the comfortable and atrophic confines of academia, and I’m now surrounded by people who intimidate me immensely, but also inspire.
+
+Intimidation factor is high. But I shall persevere.
+
+Alright, enough of that nonsense. Today was a good day, working with Brandon and Lyssa these past couple days has been a welcome departure from the past year or so working in isolation alongside my coworkers instead of with them. Later, I worked with Lyssa and dealt with a few tickets. Then, I paired with Brandon and played with some scripts and poked at some of the ST APIs. We also spawned a dev environment so I can start to prod at things and start learning the code and developing scripts.
+
+Then I dove headfirst into /corp and quickly found myself with 40 or so tabs open in Firefox, and didn’t emerge until several hours after I was supposed to be ‘clocked out’. I suspect this trend will continue unabated for several days at the least.
+
+I’m unsure how working alone at home is going to affect me long term. I tend to be rather hermit-like when I work, donning headphones and only emerging when I’m in need of sustenance. So, I can’t expect the effect will be large. I should work on finding people the real world to meet for lunch so I don’t go stir crazy eventually.
+
+Random things I’ve learned
+--------------------------
+
+* My... “Inclination to forget” about my blogging, will not be tolerated.
+* No one knows what my official title is, and that doesn’t really matter.
+* People in support (so far) all have many pets, and the fact that I have three cats is relatively sane.
+* Google Reader is probably not going to cut it… even though I wish it could.
+
+
+Thoughts on communications
+--------------------------
+
+* VoIP/Skype makes me far happier than landlines or cellphones.
+* Three years (almost) of living on [Ventrilo](http://ventrilo.com/) for WoW has left me extremely comfortable shooting the shit (aka BSing) in skype and VoIP calls.
+* Ventrilo’s default state is muted; VoIP’s default state is unmuted. Mixing these up is bad.
+* I enjoy tacking on time to calls in order to BS; other people will/may find this obnoxious. I must watch myself.
+* When I BS on voice I tend to be able to work with more fluidity on multiple tasks.
+
+08.03.07
+========
+
+Continued Learning
+------------------
+
+Today I continued to work on picking up stuff around here. Then, I worked on more tickets. After that I had to run off mid-day to pick up my car from the dealer. I have A/C for the first time in over a year. It’s pretty amazing. Lurked in on Brandon working with zbir working on an LDAP problem with a client, and got my laptop ordered finally. I chose a Dell XPS M1330.
+
+Deep Thoughts
+-------------
+
+I’m shocked at the volume of tickets that seem to languish around here. Recent St-Dev list traffic suggests that this is not something that I’m alone in noticing. Once I get going here I might have to watch myself that I don’t work on tickets all night. My last position got it fairly well ingrained in my brain that the RT queue needs to be empty. If a ticket sat for more than 24h my manager, cool as he was, would start breathing down my neck. Quite literally. Several times I would turn around to find him standing there. We’ll see how things go as I merge into the flow here. (Edit: this has gotten way better in the last week)
+
+Started [brianhabererthingsthatannoy]. I figured that, if nothing else, I can be a fresh, critical eye. I also assume that when I find problems, I should write them down even if they are things people have been dealing with for months. We’ll see how useful it proves.
+
+Thoughts on increasing random communication
+-------------------------------------------
+
+Read [cdent]’s [recreating_lunch] (however old it may be). I think that recreating an atmosphere of office social interaction is a good idea, but VoIP and Skype feel like bad avenues for casual communication. I’m tempted to suggest some form of groupvoip like Ventrilo for that level of social interaction.
+
+Vent servers are poor traditional voip servers, there is no way to engage someone in pure one on one chat, nor is there a real way to not be on a call (other than being disconnected). However they make great casual social interaction space. You have a clear view of who is in which virtual space, who they are talking with, and who is actually talking. People are announced by name as they enter and leave spaces/channels, which is something I find frustratingly absent in voip sessions. (The bings and dings don’t cut it)
+
+The main problem with that is that the Mac support is lackluster (or used to be, it might be better now) and the Linux client is nonexistent. There’s also the point that introducing yet another voice client for people to install is a bad thing. I also feel that people don’t like to talk, only type. This is a deathblow to this kind of thing.
+
+That’s all for today’s brain dump.

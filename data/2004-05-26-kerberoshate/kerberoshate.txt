@@ -1,0 +1,22 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# The joys of getting Kerberos Authentication working.
+
+So I've been working on getting the machine that runs [[IMS]] to do proper Kerberos authentication so that I can add users to <Directory> http.conf entries or to .htaccess files as I need to give new users access to [[IMS]]. JoeBlaylock uses PAM with krb5 on his machines and I've been getting help from him and matthewoconnor, but no love from Kerberos.  {nid U3}
+
+The [http://kb.indiana.edu/data/ahkb.html UITS KB directions] don't seem to work, since when I try to build Kerberos I get all sorts of broken build behavior. So I'm trying to use the Debian krb5 modules to pretend I installed Kerberos. Using mod_auth_kerb and apache-ssl I'm now able to successfully authenticate users against Kerberos with their network IDs.  {nid U4}
+
+Well... most of the time. {nid U5}
+
+It seems that users using IE to access the site have to enter their credentials twice in order to gain access. Which is a pita. I don't know why IE is breaking things. {nid U6}
+
+I think tonight I'm going to work on database entry and the Visio Drawing.  I'm also thinking about adding some fields to the database... but we'll see.  {nid U7}
+
+
+

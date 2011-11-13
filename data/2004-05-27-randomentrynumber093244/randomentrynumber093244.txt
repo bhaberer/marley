@@ -1,0 +1,16 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Randomness
+
+http://weirdo513.org/dorthy.jpg
+
+My Great Aunt died. :( She went to Nebraska for her 83rd birthday. and when they went to wake her up in the morning she had passed away. *sigh* It really sucks I hadn't seen her in a long time and I was hoping to see her again soon and even let her meet [[Jenn]]. My father is taking care of things right now I hope he's doing ok... 
+
+That's all for now. I'm tired.
+

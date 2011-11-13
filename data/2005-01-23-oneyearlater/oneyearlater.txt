@@ -1,0 +1,13 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+One Year Later...
+Something cool happened one year ago. {nid 1L9}
+
+[http://weirdo513.org/firstchat.txt Some goofy girl IMed me] {nid 1LA}
+

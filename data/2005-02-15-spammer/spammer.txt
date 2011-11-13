@@ -1,0 +1,26 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Stupid Spammer. 
+
+Well I just cleaned up like 20-40 comments from some Italian spammer or something screwy. He posted a large chunk of links that my blog blocked.  {nid 1LB}
+
+Good Blosxom, that's a good blog! {nid 1LC}
+
+Anyway... Valentines day was yesterday... it was good times. I got Jenn a Rose and some chocolate covered cherries, and we went for a nice dinner at Lennie's. This is the first Valentines I've actually been in a relationship, it's kind of a weird experience. :) Our one year anniversary is coming up next month... how cool is that. {nid 1LD}
+
+My Druid in WoW hit 60 this weekend. I'll post a pic in a while, the realms are down for now, but you can click [http://www.thottbot.com/index.cgi?p=Asmeroth this link] to see my equipment. Which is not very interesting at all. The guild I run just started taking over another guild, which has been kind of stressful.  {nid 1LE}
+
+I wrote a Firefox Search plugin to search the KB, I'm going to pseudo release it very soon, I was using an IU icon at first, and I realize it's probably copwritten and such so I had to make a new one. when it's done I'll link to an installer here. Fun stuff.  {nid 1LF}
+
+Something sweet ass: http://maps.google.com ... I mean, how fucking cool is Google for that alone, let alone all the other shit they've done.  {nid 1LG}
+
+I'm going to try and finish my MythTV box soon, I don't know for sure when, but it looks like I can get the last two parts for like $200 or so which would be nice.  {nid 1LH}
+
+That's if for now, gotta reboot, back with more later probably.  {nid 1LI}
+

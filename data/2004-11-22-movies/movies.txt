@@ -1,0 +1,12 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Eternal Sunshine of the Spotless Mind
+
+[[Jenn]] and I rented [http://www.imdb.com/title/tt0338013/ Eternal Sunshine of the Spotless Mind] And I really liked it. I'm a big Jim Carrey fan, and I like when he does more serious stuff like this (I liked The Majestic as well, even though no one else seems to). It's a show about Jim Carey's character deciding to have the memory of his ex girlfriend deleted after she has him deleted. I thought it was done incredibly well and it was visually stunning. I don't want to spoil it, but I recommend it, I would think that it's #35 on the IMDB top 250 for a reason after all. '''A-''' {nid 1IW}
+

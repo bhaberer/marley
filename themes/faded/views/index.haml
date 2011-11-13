@@ -19,7 +19,7 @@
         %span.date 
           #{human_date post.published_on}
           %a{:href => "/#{post.id}.html"}= post.title
-        %br
-        #{post.perex} 
+        %p
+          #{post.perex} 
         %p 
           %a{:href => "/#{post.id}.html#disqus_thread"} Comments

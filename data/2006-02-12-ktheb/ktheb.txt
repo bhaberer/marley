@@ -1,0 +1,37 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Movies
+
+Random Movies Reviews and webclips
+
+Krunk the Barbarian!
+'''More Google Video''' {nid 22S}
+
+:[http://video.google.com/videoplay?docid=7521044027821122670 Fear of Girls] {nid 22T}
+:And also: [http://video.google.com/videoplay?docid=-5366552067462745475 Meditation on the Speed Limit] {nid 22V}
+
+So for those who care. I'm going to ramble on a bit about my guild crap in Warcraft.  My guild just defeated the last bit of content in the current game. We beat the last boss in 'Blackwing Lair'. It's a big achievement, and it took a lot of teamwork to get it beaten. I'm pretty stoked. {nid 22W}
+
+We're done with anything new for a few weeks, when the next hard area opens. I'm looking forward to it, it looks so cool. {nid 22X}
+
+'''More Movies''' {nid 22Y}
+
+:[http://www.imdb.com/title/tt0405159/ Million Dollar Baby] {nid 22Z}
+::The most disappointing movie of the year ever. It was a good movie... but I don't know... I just couldn't get into it at all. The individual performances of Clint Eastwood and Morgan Freeman were outstanding, but I guess I just don't care about boxing enough or something. {nid 230}
+:::'''B-''' {nid 231}
+
+:[http://imdb.com/title/tt0408306/:[http://imdb.com/title/tt0328258/ Ping-Pong] {nid 232}
+
+:: One of the best movies I've seen in a while. Usually I watch movies while I'm working, or gaming. But I found myself immersed in this movie about two Japanese high school ping pong students. I know it sounds like a weird premise for a movie, but the movie was amazing. I have a copy so if anyone wants to see it let me know. {nid 233}
+:::'''A''' {nid 234}
+
+:[http://imdb.com/title/tt0408306/ Munich] {nid 235}
+::This movie was amazingly well done. Very Very gory... I would warn about that. I enjoyed this movie a lot, even if some of the political messages I don't particularly agree with. {nid 236}
+:::'''B''' {nid 237}
+

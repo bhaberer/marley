@@ -1,0 +1,25 @@
+{{
+  categories:
+    - rails
+    - uits
+    - learning
+  image_id: 2809794470
+}}
+
+# Mental Atrophy
+
+Seems like seven years at UITS sort of killed my will to learn.
+
+I've been out of UITS for about four months, and it's been one of the most humbling experiences of my life. Right now, I work at a wiki company directly interacting with clients like Symantec and SAP. I work alongside a lot of very brilliant development people who inspire. But, I'm almost at the bottom of the ladder.
+
+I used to work in a cubicle answering the questions of John Q Student. Fixing his Linux problems, or showing him how to make the VPN work, for some reason it made me feel like I had a clue. I tricked myself into feeling like I was a programmer because I was the guy on the team who stepped up to hacking perl when the need arose.
+
+Boy. ignorance sure is bliss. Because I sure as hell don't feel like anything close to a programmer around the people I work with now. My grand programming feats at IU can and should be dismissed as minuscule acts hackery in the same way a web designer dismisses the childish attempts of MySpace users at dressing up their profiles.
+
+I'm waking up to the fact that I didn't really want to deal with. and that is that I'm fairly clueless. And while it's understandable being that I've never worked with anyone on any kind of coding project, or had an official part of my job to actually code on a daily basis, that doesn't make it any less intellectually crippling.
+
+I've decided that unless I want to answer emails and do support for the rest of my life, I should wake my ass up and do something useful. I'm attaching a rapid drip of motivation to my vein and I'm going to get some shit done. or fail miserably.. but I'll worry about that when and if it happens.
+
+I bounced a random crazy idea off a friend of mine and he loved it. We're going to work on developing it into Something Cool (tm), but first I need to get up to speed. I spent that last few days launching myself at ruby and rails. I read most of 'Learning Ruby', 'Why's (poignant) Guide to Ruby', finished 'Ruby on Rails: Up and Running'. (not recommended) and I've started reading 'Agile Dev in Rails'. I'm learning a lot, and it's nice to have a goal. it was far too easy to put this stuff off when I didn't have someone who knew it all essentially making fun of me while I take strides to catch my noobish self back up to speed.
+
+Lets throw some learning at my brain and see what sticks.

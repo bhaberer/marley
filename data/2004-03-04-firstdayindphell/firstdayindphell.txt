@@ -1,0 +1,22 @@
+{{
+categories:
+image:
+  name: "Garden"
+  link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+  url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# "Omniback is useful in that broken sort of way *laugh*" -Brian Haberer (circa mid 2003)
+
+Little did I know one day it would be my baby. :P I came in and watched over people's shoulders and learned a bit about the overall structure of the DataProtector/Omniback Environment that we use at IU to backup all the servers. This is one of the many things I'm now in charge of... fun times... or something.
+
+Little did I know one day it would be my baby. :P I came in and watched over people's shoulders and learned a bit about the overall structure of the DataProtector/Omniback Environment that we use at IU to backup all the servers. This is one of the many things I'm now in charge of... fun times... or something.
+
+So I have an 857 page pdf file on my work machine that I'm reading. All about the ins and outs of the dataprotector system. I also have a 3-4" thing ACS manual about how to configure the new console servers I'll be setting up or something... sheesh... I'm anxious to get to days so I can get some of the shit hanging over my head done and taken care of for now. I still need to finalize the last bit f whatsup and send out the last notices... god damn. I'm so tired. I was up around 9:00am and I'll be up until at least 8:00am tomorrow/today. But this is my last night shift! Ever! muahahaha.
+
+Sorry about that... I'm a little low on sleep and sanity.
+
+[http://www.iugaming.com/ Lanwar VII] is coming up soon. I'm excited, I think next week I can start getting together with the people I'll be playing with so that e can start practicing more often. I downloaded the UT2k4 demo and I'm buying the game for the onslaught mode. Basically you have a grid of nodes on a map. Your team works to build power cores at those nodes. if you connect your core to a node you can build the the other free nodes connected to it. You can only attack or loose nodes on the edge of your network. It makes for a very quick tactical game. Oh and the boards are huge, and they have many vehicles usually. The other modes like DeathMatch and CapturetheFlag are ok, but nothing has really changed there. Onslaught is like bf1942 on crack.
+
+I need to do my taxes sometime soon... maybe this weekend.
+

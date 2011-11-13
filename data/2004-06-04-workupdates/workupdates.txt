@@ -1,0 +1,38 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+Work Update. {nid UT}
+
+* [[IMS]]  {nid UU}
+** Progress {nid UV}
+*** Database redesign done.  {nid UW}
+*** Global CSS design in place. {nid UX}
+*** Structural changes in place {nid UY}
+** Currently {nid UZ}
+*** Working on UI design smoothness. {nid V0}
+*** Performing anal-retentive code audit. {nid V1}
+*** Getting user input from co-workers / friends. {nid V2}
+** To Do {nid V3}
+*** Automate Excel Database dumps. {nid V4}
+*** Automate Rackview Database dumps. {nid V5}
+*** Trigger Updates on database edits. {nid V6}
+*** Populate database with enough entries to bug-test the Rackview scripts. {nid V7}
+*** Redesign forms. {nid V8}
+*** Restructure site layout, move status page / program concept map(s) to public area. {nid V9}
+* Alterpath Console Servers. {nid VA}
+** To-Do {nid VB}
+*** Wire KB Servers  {nid VC}
+*** Order more RJ45 -> DB25 Converters. {nid VD}
+*** Migrate DSSG / MassStore to ACS04 {nid VE}
+*** Finish Migration Plan.  {nid VF}
+*** Work on web form to request ACS use. {nid VG}
+*** Institute Mailing Lists. {nid VH}
+
+I'm almost to the point where I could fully roll out IMS. I'll be working on that later on I think.  {nid VI}
+
+

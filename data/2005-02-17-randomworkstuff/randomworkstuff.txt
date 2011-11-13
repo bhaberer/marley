@@ -1,0 +1,23 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Work stuff.
+
+A lot of stuff is suddenly going on at work, which is good. Being back on days is starting to gear up, and I'm involved in a couple high profile projects now, which is kind of neat... {nid 1LO}
+
+But, before I get into that... I just want to say that people should call [http://www.in.gov/fssa/families/protection/dfcchi.html these guys] if I'm ever so out of it that I need [http://www.microsoft.com/athome/security/children/kidtalk.mspx Microsoft to teach me how to understand my kids] or [http://www.microsoft.com/athome/security/children/griefers.mspx help them deal with 'cyberbullies'] . I mean... just wow. (Also See: [http://www.microsoft.com/windowsxp/using/games/learnmore/mmo.mspx Online Gaming Primer], [http://www.microsoft.com/athome/security/online/netiquette.mspx Netiquette 101], and of course [http://www.microsoft.com/athome/security/children/gamingonline.mspx Tips for parents to help kids play it safe with online games])  {nid 1LP}
+
+Speaking of WoW, I have a picture of [http://weirdo513.org/asmeroth60.jpg Asmeroth] in his level 60 uberness, as well as [http://weirdo513.org/asmerothmount.jpg riding my Frostsaber mount] up on the web now. {nid 1LQ}
+
+But, back to stuff at work. Right now I've been busy with... {nid 1LR}
+
+* Working on testing the newest Cyclades firmware for the ACS units, I need to hurry up and get the test bed ready to go and then deploy the upgrade/patch cluster to the other units.  {nid 1LS}
+* Starting back up work on [[IMS]], it's been dead for a while... but Dan's gotten word that a lot of people are really wanting to be rolled out asap... so I get a new machine to put it on, and I'm going to be working on rolling it out to phase the old inventory system out.  {nid 1LT}
+* We're looking on redesigning the mission critical paging system we have in place right now... we use the IU listserv, but it's not quick enough for what we need and the messaging people are not wanting listserv to be a production/mission critical thing... so we're looking at a mailman solution possibly, which would be good, since Free Software is teh win.  {nid 1LU}
+* Backups, Backups, and more backups! Yay.   {nid 1LV}
+

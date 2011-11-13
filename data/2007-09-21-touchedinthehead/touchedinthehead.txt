@@ -1,0 +1,38 @@
+{{
+  categories:
+    - ipod
+    - music
+    - drm
+  image_id: 2827592548
+}}
+
+# Touched in the head.
+
+Where I discover that a Neuros just isn't covering it. 
+
+I went to class today and camped out by the door, since I was a way early. I noticed the other guy camping out waiting for the class before ours to get out had an iPod Touch. So I talked him up about it and poked at it, and I decided that it's a pretty good choice. I'm also less worried that apple will randomly decide to brick my iPod than I am that they would randomly brick my phone. Especially since I will no doubt be fucking with it till I get a SSH client working on the dammed thing.
+
+So I ordered it despite the loving words of my fellow FSF hippy friends.
+
+    < paulv> you shouldn't buy a touch.
+    < weirdo> why not?
+    < bcs> Defective by Design, bitches!
+    < xentrac> closed proprietary DRM etc.?
+    < xentrac> but it's so pretty
+    < weirdo> I'm not buying any DRMed music
+    < paulv> because it's shit
+    < paulv> it's going to break and suck and you're going to hate it
+    < weirdo> paulv: it's going to be like crystallized sex and I'm going to love it
+    < paulv> crystallized sex hurts and you know it
+    < bcs> Yeah, that doesn't sound fun at all.
+    < weirdo> prudes
+    < bcs> In sex some kinds of stiffness are good and other kinds are bad and that's definitely the bad kind.
+    < paulv> it'll be as much fun as being punched in the cock!
+    < paulv> buy the new Apple iCockPunch, available at your friendly neighborhood BestBuy
+    < weirdo> I read that as iCookPunch
+    < xentrac> with an included involuntary ISP signup!
+    < weirdo> xentrac: yay!
+
+I worked at Joe's house today, he helped me work through some infinite loops I had lurking in my scheme search function. I still need to figure out a heuristic and some search queue manipulation functions for best-first search and A*-Search. I hope to get it done this weekend, and not have to worry about it on Mon/Tues.
+
+Think I'm gonna watch some office and hit the hay soonish.

@@ -1,0 +1,49 @@
+{{
+  categories:
+    - blogging
+    - mephisto
+    - rails
+  image_id: 5835283419
+}}
+
+# Small changes to the blogging.
+
+I'm in ur Mephisto, hackin ur pluginz
+
+I'm in ur Mephisto, hackin ur pluginz
+-------------------------------------
+
+I spent several hours tonight correcting and fixing the way I was pulling a lot of data from various places like twitter, last.fm and flickr for my dynamic sidebar. A lot of the old stuff was lame javascript stuff and flash applets, and it was making the page load times pretty craptastic.
+
+I tracked down some simple plugins for twitter and last.fm that pull data from the rest apis and display it as simple text. And, I think they worked pretty well, with a little hacking. Since Mephisto is a rails app I was able to dive in and correct a few things, like the fact that the last.fm plugin caches for 24 hours, and I wanted it to display my recent tracks, as well as that the twitter plugin was way out of whack and needed some updates from when twitter phased out the relative_time from its API, etc.
+
+As a result of my work my page looks better (in my opinion) and the load time has dropped from ~10s to ~1s given a cache of the page. So that makes me happy.
+
+Rails
+-----
+
+On the subject of rails learning, I'm moving right along. Things seem to be coming a little more naturally. I'm far from being able to realistically code something complex on my own, but little by little. I'm still working through Agile Rails Dev, albeit slower than I would have liked. I took a lot of resting time over break.
+
+Home work
+---------
+
+We spent a few days tearing down Jenn's bathroom so we could paint it quick the other day. Jenn did most of the work when it came to tearing down and painting, but I'm an expert at handing things to people.
+
+During the tear down, we noticed that in lieu of electrical boxes (those metal boxes that you can mount switches and lights upon) they had just punched a hole in the wall and pulled an electrical line through the wall. Then they attached the fixture with some random screws into the wall (studs are for wusses), wired that shit up and called it a day.
+
+So when we went to replace them with something that's not ugly as sin, we were kind of SOL. as we have nothing to actually mount it to. My bathroom is even better, in Jenn's the random hole is in the center of the wall, but in mine they punched a hole off center, and then cut a hole in the back of the fixture to jury rig that shit right up.
+
+So painful. 
+
+I'll post pics later. We're having a guy come give an estimate on some electrical boxes for mounting this weekend.
+
+Camera
+------
+
+So the saga of the camera continues.
+
+I put in an order for my lenses (AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR and AF NIKKOR 50mm f/1.8D ) last month because when I went to buy them the first time they didn't have any. So I put in the order and asked if I needed to worry about the camera, "Oh no, we always have D80s". was the response to that. So, I ordered my lenses and I moved on, not worrying about the camera itself.
+
+However, last week I went in since one of the lenses had come in, and found that both had been in for a week+ which kind of annoyed me, but whatever. So, I ask for a D80 (body only) (I'm after a body only because the lens that comes with the camera ( AF-S DX Zoom-NIKKOR 18-135mm f/3.5-5.6G IF-ED is not Vibration Reduction, and so is not really worth the $300+ it tacks onto the price of the camera, IMO. The lens I ordered is VR, but it doesn't work w/o a camera! :P) and they don't have one. Ok, that's fine, when will you get one? Should be Saturday. Ok, fine, I can wait 3 days or so.
+
+Saturday comes and goes, and no camera. I call today three times (so far) trying to get an answer from someone, with no luck. And, no call back, how rude (they did call back before now)! It's beginning to get really frustrating. It should not be this hard to give business to local merchants! :(

@@ -1,0 +1,32 @@
+{{
+  categories:
+    - blogging
+  image_id: 3930270320
+}}
+
+# Thoughts on Blogging.
+
+So this is my blog. I write in here a lot for some reason. 
+
+So this is my blog. I write in here a lot for some reason. I don't really remember why I wanted to have this blog and get away from LJ so much... I guess having my own blog is cool and all, but it's been a pain in the ass.
+
+As the days go on, I'm becoming less and less impressed with PurpleWiki. About the only cool, useful thing that PW does for me is auto magically link things like Jenn (I type [[Jenn]] to make it do that) to wiki entries about sed subject. Which is cool as hell. except the latest PW installations are retarded and semi broken... and it doesn't look like it's having a lot of active dev work being done (v0.95 Released 12.01.2004), and I'm too lazy to hack on it with any real intent. (Oh and I just noticed that 'previewing' a new wiki entry causes the wikidb to spaz and die) 
+
+The other cool features in PW I never, ever use... like ever. Purplenumbers? Yea, not so usefull, since I can't get them to work, and even if I could get them to work right I don't think I would use them enough to make the work I did to get them functional a useful expenditure of my time.
+
+Also blogging itself requires that I log in to Odin, use a special Perl script to do the right thing, and then edit my entries using fairly [oppressive and limited formatting rules](http://purplewiki.blueoxen.net/cgi-bin/wiki.pl?TextFormattingRules), and then I have LJ RSS my blog because a lot of people read http://syndicated.livejournal.com/weirdo_rss/ However, once LJ has it RSSed I can't touch it or everyone reading on LJ gets spammed with multiple copies unless I use the touch command to make it seem like the entry's date hasn't changed. Oh and if I want to do any weird formatting, like tables of divs to make my entries more readable or coherent, I'm outta luck.
+
+/sigh 
+
+And the comment spam. Good lord I hate the comment spam. Look here or here to see what I'm talking about. It's annoying to the point where I want to turn off comments... but I like the real ones too much >.< 
+
+With all of this, it's not surprising that I go weeks without updating this stupid thing... So what do i do? This setup isn't working, but I'm not sure going back to LJ is the way to go either. I like the blosxom software, and I would like to keep using a Free (speech, not beer) blogging software.
+
+Wordpress seems to be GPL, which is good. It's written in PHP, and the CanonicalHackers tend to get grumpy when I'm running lots of PHP... 
+
+Blosxom minus Purplewiki might be fine as well... and hell Livejournal wouldn't even be that bad, I just hate having 'livejournal' in the URL, it's so long.
+
+meh.
+
+What do you guys think? I know there are only like 5 people who read this :P
+

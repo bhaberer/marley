@@ -1,0 +1,24 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Neuros, RAM, WoW and other ramblings.
+
+Well a little while back an interesting thing happened to my Neuros. One day about two months ago I started smelling the distinctive "electronic burn" smell. I passed it off as dust burning in the monitor but later on I noticed my Neuros stopped working... it had been charging on my desk at work. I found that the hard drive backpack had [http://weirdo513.org/hdbkpk_burn.jpg a small burned/melted hole] and a [http://weirdo513.org/player_burn.jpg burn mark on the player] I sent it in to them a few days ago... I hope I get it back soon... it was the damnedest thing.  {nid 1ED}
+
+On Monday I upgraded my computer again. I had been using 3 256mb sticks of Crucial 2100++ DDR RAM. I decided to upgrade and I got some [http://www.newegg.com/app/ViewProductDesc.asp?description=20-146-883&depa=0 OCZ RAM], I got the "OCZ Enhanced Latency Series 184 Pin 1GB(512MBx2) DDR PC-3200 Dual Channel" kit. So far the dimms are running wonderfully. I'm debating slightly over-clocking my system but I don't know how stupid that would be.  {nid 1EE}
+
+Since I'm already geeking out hard-core in this post I'll dig myself a little deeper. WoW is coming out soon and I've joined forces with my friends Carl and Z to start a guild in the WoW universe. A lot of the cool people I played with in SWG, who are as fed up with that game as I am... We are working on drafting up a charter and such... it's a lot of work, but it's a lot of fun, and I'm having a blast with these guys.  {nid 1EF}
+
+It also looks like open beta for the game will be soon, they are shutting down the servers for closed beta sign-ups and putting the beta servers through almost a full day of maintenance at the end of the week.  I can't wait... Open Beta is going to be a lot of fun.  {nid 1EG}
+
+We've been working on restoring the server at work that serves email to a large chunk of the IU population. The restore is going to take forever... and is being hampered by the fact that the backup system is so old and stupid. It would be novel if we got funding to put a real backup solution in, but we're operating on a shoestring, backups aren't sexy like research, so we don't get funds... what a crock.  {nid 1EH}
+
+I've also been working on something for Jenn and I to be for Halloween. So far no good ideas, but we've been thinking pretty hard. Everything just seems dumb. {nid 1EI}
+
+I know the Wiki is broken... I'll work on fixing it. I'm trying not to loose everything I had entered into it. The gallery should be working, and I'm going to try hooking up the dying hard-drive and doing an archive copy and see if I can get the timestamps to keep on the journal entries. If anyone notices things broken other than this, let me know.  {nid 1EJ}
+

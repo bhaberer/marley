@@ -1,0 +1,18 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# It's Alive! (maybe)
+
+So yesterday when Igot off work I went home and dropped StephanieBurks a note that if she got in, and felt like helping me work on getting a Solaris box working, that she should drop me a line. She dropped me a note and I went in, she had a better machine than the Sparc 20 that TomaMontgomory had given to me to use. I'm also pretty sure that the old Sparc's external hard drive was dead, or in a death spiral.  {nid 5S}
+
+So we started to install Solaris9 on the old Ultra5 Ulrasparc machine she had for me, and found that the main board was fried on him. So we went hunting for another old box for me to use. I dropped a line to JoeBlaylock over in the SupportCenter who offered up a few machines for me to use that he was going to have to scrap soon. (Note to self: email about the fact that I have them) So I took a cart load of stuff back over to the MachineRoom and set to work. We couldn't get a monitor to work with either of the ultra 1s JoeBlaylock gave me. and since it was time for Stephanie to head to a staff meeting I grabbed Joe and headed to Noodle-town for some lunch, I wish I had known it was MatthewOconnor's lunch as well I would have kid napped him. We came back and hung out in Joe's cube for a bit and then I wandered over and visited Matthew.  {nid 5T}
+
+I got back and started shuffling hardware around in my cube which now contains a Sparc20, 3x Ultra1s, an Ultra5, 4 sun keyboard/mouse combos, 2 external storage arrays and more. Somehow shuffling all the parts around got to the point where one of the combos worked, and I started installing Solaris... I left after a while and took Matthew and Joe home. I'm going to head back in after a bit and check how things turned out. {nid 5U}
+
+
+

@@ -1,0 +1,13 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Another Random Movie Review
+
+'''[http://www.imdb.com/title/tt0212974/ Groove]'''
+A movie that's mostly about a rave being put on in San Francisco. It had some great music (digweed, hybrid, Orbital, etc) and nice cinematography. I think it decent job of capturing the feel of a rave, though I've never been to a real rave just some pathetic wannabe parties. :) But, I enjoyed the movie overall and reccomend it if you have any interest in this kind of thing. '''B+'''  {nid 1GW}
+

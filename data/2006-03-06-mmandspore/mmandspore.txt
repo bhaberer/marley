@@ -1,0 +1,20 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# On MirrorMasks and Spores
+
+What would happen if the guy who brought you [http://tinyurl.com/zj33t The Sandman] teamed up with the weird folks who brought you [http://en.wikipedia.org/wiki/Labyrinth_%28movie%29 Labyrinth]?
+
+What would happen if the guy who brought you [http://tinyurl.com/zj33t The Sandman] teamed up with the weird folks who brought you [http://en.wikipedia.org/wiki/Labyrinth_%28movie%29 Labyrinth]? You would get a twisted little movie called [http://www.imdb.com/title/tt0366780/ Mirrormask].  {nid 26M}
+
+I highly enjoyed it, BoCo brought it over Saturday night and we watched it with Jenn, Brett and Tim. Jenn and Tim didn't like it much, but I found it amazing. I highly reccomend that you all go find a copy.
+ 
+ In other cool news, Will Write (Creator of SimCity, The Sims, and other uber games) showed off his new game [http://video.google.com/videoplay?docid=8372603330420559198&q=spore Spore] to a group of people at the recent GDC. Basically, you start off as a single cell organism in a 2d world and evolve freely to the point where you're creatures attain sentience, and form communities. But eventually you can attain the ability to fly to other planets, and colonize and terraform them. Sounds cool? Well that's not the cool part. The cool part is that the creatures on your planet, the planets in your galaxy and everything in existence is [http://en.wikipedia.org/wiki/Procedural_generation procedurally generated]. That means the buildings you create, the animals you create and evolve, the planets you create or destroy are all created on the fly, and what's even cooler is that everything you create is shared with every other player. That weird cat/walrus/dolphin fish you just saw? He might have been made by a 35 year old stock broker in Tokyo. That planet you just got invaded by? It was the work of a 16 year old girl in Kansas City.  {nid 26N}
+
+The game is due out in late 2006 and I can't wait.
+

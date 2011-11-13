@@ -1,0 +1,23 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Meetings... what fun.
+
+I had my first meeting today, and I have 2-3 more over the next week or so... sheesh. Today I learned I've been drafted to be on the new Disaster Action Team. We are basically supposed to come up with a emergency plan for the UITS buildings (WCC, E2, E3, E4, commsvcs, etc.). {nid CY}
+
+Evidently OSHA is mad because we never got around to making one up for the buildings in question... oops. {nid CZ}
+
+And Dean tells us that we need to come up with a new plan since the one that Risk  management sent us is liable to get a lot of people killed in an emergency... oops. {nid D0}
+
+So that was a lot of fun! (not really) I then spent some time cleaning and organizing stuff in my cube. (Lame but necessary.) And then I came back home and played some UT2k4 with Timmah. which I will have to write about more later... suffice to say... it is a good thing. {nid D1}
+
+Tomorrow we are replacing one of our old Sparc stations with a nice new SunBlade150. So I'm going in for that, so I can see how things are done.  {nid D2}
+
+But for now... it's nap time. {nid D3}
+
+

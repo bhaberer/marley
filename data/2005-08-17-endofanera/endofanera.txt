@@ -1,0 +1,26 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# An End of an Era.
+
+So today I dragged the last bits of my refuse out of the old Apt T3. I've been in a funk all day about it... It really does feel like the end of an era. I know I haven't technically "lived" there for a few months, but I had hoped I could keep finding people to take over the lease so that the apartment would always be a place were people could go.  {nid 1XY}
+
+[http://www.livejournal.com/users/stargazer/441070.html Brett went on about this] a few days back and I think he's right.  {nid 1XZ}
+
+That old apartment was such a great time of my life, even if it was punctuated with times that I would rather forget. It was the first try at living on my own, and I like to think I was successful. I didn't know if I could survive on my own without parents paying the bills and buying me food. And those first months were scary as all hell. But, I made it.  {nid 1Y0}
+
+That apartment was a lot of things for a lot of people. It was an escape from a horrid life and a second chance for [http://weirdo513.org/albums/album07/aab.jpg some], and a place of escape for many. I can't count the times people randomly crashed on sofas, in corners, on floors and empty beds. Or even just popped by to study. Hell I kept the door to the place unlocked most of the time and it wasn't uncommon for [http://weirdo513.org/albums/album06/aar.jpg weirdos] to wander over with little to no warning. One Christmas BoCo even lived on our couch for a few weeks to escape staying with parental units.  {nid 1Y1}
+
+Many good memories from [http://weirdo513.org/albums/apti7/abd.jpg Matthew and Brett visits] when [http://weirdo513.org/albums/apti7/abb.jpg Joe and Anami] lived just across the complex from me. They got [http://weirdo513.org/albums/album44/aal.jpg married] one summer and I had 10 [http://weirdo513.org/albums/album27/aah.jpg odd] people stay at the apartment for the duration. Gods that was fun. {nid 1Y2}
+
+I learned how to pay bills, maintain my own life, hell even how to make [http://weirdo513.org/albums/album07/aaj.thumb.jpg a kick-ass stir-fry]. I learned of maintaining a network in my home, how to host a website on a debian machine in the closet, and even some fun tricks with hiding Cat5 under carpet. I learned how to put out a grease fire, and basic first aid. (it was Tim's fault) I learned you can never have too many gaming systems hooked up to one TV, and that you need good wiring to pull off a lanwar. {nid 1Y3}
+
+It was an incredible experience and a lot of fun. Thanks to all of the CanonicalHackers who visited, to Tim and Brett (my roommate) for putting up with me.. I know it wasn't easy ^_^  {nid 1Y4}
+
+I'll miss T3... But sometimes you have to move on, and try other things.  {nid 1Y5}
+

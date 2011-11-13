@@ -1,0 +1,18 @@
+{{
+  categories:
+  image_id: 5838435133
+}}
+
+# Well lets give this another try...
+
+Farewell Livejournal. 
+
+Well I'm going to try living in the world without LJ again. I may go back, but for now I'm running things on my own. The only reason I left blogging on my own server was that the comment spam and update procedures were just awful... but those are non issues in this new space. 
+
+So what is this new space? I'm running this journal/blog/whatever on Mephisto, it's being hosted by the fine folks over at Mediatemple, one of the best hosts I've ever had to deal with. 
+
+Why did I move? Well most of my website was being hosted off the machine (Odin) in my computer room. Now, while Odin was a fine machine, that room was getting dammed hot in the summer, and it seemed like a waste of a machine since most of my online persistence (read: screen sessions) is being handled by my work machines. Also, I already had a nice mediatemple account for my old guild's website (wowguild.net) and my wedding website (brianandjennswedding.com) but with both of those sites more or less defunct, I felt it made sense to move my webpages to the account. I could have moved my pages to Panacea (server shared by friends of mine), but the hardware is sketchy and too many people depend upon the machine for me not to be neurotic about the content. Plus I was using dynamic IPs for my DNS resolution, which was horrible at times... and meant I couldn't turn my computers off etcetera. 
+
+I did some reorganizing, and so a lot of URLs probably just broke, but I'm ok with that for now. The main page is gone for now, but I don't think people will cry too much about that being gone. As time goes on I'm going to populate more information into the new blog space and refine the CSS style, I can't decide if I have it looking how I want it yet. I'm also going to try and transition to all em values for my style, but that's going to be a little annoying. 
+
+

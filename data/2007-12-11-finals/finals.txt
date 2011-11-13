@@ -1,0 +1,38 @@
+{{
+  categories:
+    - finals
+    - school
+    - cleo
+    - cats
+  image_id: 5549634582
+}}
+
+# I Love Finals Week, and other stories.
+
+Lots of things going on, nothing of much substance, so I won't pretend this is that interesting.
+
+Lots of things going on, nothing of much substance, so I won't pretend this is that interesting.
+
+AI Class
+--------
+
+I have a few days left to finish my Neural Network for Intro AI. It is mostly done, aside from some obnoxious behavior in the learning, but I think I have tracked down the cause. 
+
+My AI Final Will start 12am Thursday and end at 7pm on Friday. Take home. 20 essays. Fun stuff.
+
+I think that while mildly interesting when used in conjunction to game playing and puzzle solving; I generally find AI boring and tedious most of the time, and will not be pursuing it. Just my opinion.
+
+Random Notes
+------------
+
+* This coming weekend Tim will be coming down for video games and other chicanery. I'm looking forward to a weekend of drunken relaxing and amusing gaming.
+* Joe finished his last paper today, and barring some insane twist, he should be a bona fide graduate now. What a sellout.
+* I will have my D80 in a week or two. It will be good times.
+* I dove in to Rails and Ruby hardcore for a few days, much to the detriment of my neural network's progress, but that's not important. I like Ruby/Rails so far and hope to continue my learning once this stupid week is done.
+
+Cleo
+----
+
+In more somber news, I'll be staying here this Christmas season because Jenn's oldest (13+ years) cat Cleo has an overactive thyroid. This means she has to undergo a procedure in Indy next week where she'll be injected in Radio-Iodine, and isolated for about a week in Indy. Jenn's taking it pretty hard, but we found out today that the cancer (overactive thyroid = cancer in cats I guess?) hasn't spread at all, so the treatment should save her. If you have any interest in this stuff you can read about what's going on at http://radiocat.com Needless to say we aren't going to leave while the cat's in recovery, but Jenn's mother is planning on coming to visit, so that will be cool.
+
+My holiday plans are pretty much completely up in the air right now, as I really haven't had the mental energy to figure out where and how available I'll be, but I'll figure it out next week.

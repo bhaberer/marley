@@ -1,0 +1,14 @@
+{{
+  categories:
+    - socialtext
+    - work
+    - emo
+  image_id: 2827592548
+}}
+
+# Wow... Really?
+
+Life just kicked me in the balls again.
+
+Life just kicked me in the balls again.
+

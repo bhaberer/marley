@@ -1,0 +1,14 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Well, Fuck
+
+Looks like Odin, the web server that hosts weirdo513.org is going to die very soon, so the webpage might go down for an indeterminate amount of time, I have a new hard drive waiting but i don't know how long it will take to get everything all happy again.
+
+Hopefully not long!
+

@@ -1,0 +1,20 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# On computer Hardware.
+
+Remember when you got your first computer? I do. It was a 486 33mhz Packard Bell with a 500mb hard drive and 4mb of ram. It was sexy... I mean it had a video card! Sweet shit huh? Yea Baby.  {nid 1Y6}
+
+I find it funny that I'm looking at buying a [http://secure.newegg.com/NewVersion/Shopping/shoppingcart.asp?submit=view 300gb SATA drive] (critiques of brand, etc. welcome.) now, that's like 3 orders of magnitude more storage (I already have 2x80 gb Western Digital Drives) than I had when I started using computers. That's cool. {nid 1Y7}
+
+I'm also looking at replacing my threadbare Lian-Li PC-60 (good 5 years old now) with a new [http://www.newegg.com/Product/Product.asp?Item=N82E16811112077 ian Li PC-60APlus] But I have to wait till they have it back in stock to order it. My current case is holding up fairly well, but it just doesn't have the airflow to keep up with my AMD64 3000+ and all the other shit in my case. The new case has a top-side exhaust and some added air flow direction. [http://www.anandtech.com/casecooling/showdoc.aspx?i=2357 Anandtech has a review] for the people who care. {nid 1Y8}
+
+Tim came up this weekend and I finally got around to asking him to be my Best Man in that whole wedding thingamajig that's coming up in May. So that's good.  {nid 1Y9}
+
+I don't have a lot more right now, I think I see a nap in my near future. {nid 1YA}
+

@@ -1,0 +1,37 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Sol seems to be working.
+
+I have KDE running on it for now, but with word that I have a better machine on the way I'm reticent to install anything else on the machine at this point. {nid C9}
+
+I'm at work right now, I'm studying Solaris documentation and organizing my cubicles, since this is a HoteledCubicle I'm having to coexist with two other guys (the 2nd and 3rd shift supervisors). So I got permission to play archeologist and rummage through the storage cabinet here in my cube and toss, organize, and move the stuff inside.  {nid CA}
+
+Things found: {nid CB}
+
+* 10-15 10mbs Ethernet cards with an interface that looks kind of like AGP. {nid CC}
+* 20+ Printer cables. {nid CD}
+* 2 hard drives less than 200mb in size. {nid CE}
+* 6 New Computer Kits from Dell or Gateway {nid CF}
+* 10 1mb Macintosh Simms {nid CG}
+* 3 modems, on 33.6 kbps and two 2400 bps. {nid CH}
+* One External Ethernet to serial interface. {nid CI}
+* Uncountable Manuals for systems, software, or hardware we don't have anymore. {nid CJ}
+* 4 manuals for things we still have. {nid CK}
+* 60-70 backup 3.25" Disks {nid CL}
+* 30 Power Cables {nid CM}
+
+But I cleaned all that out and moved it to the other cube... well some of it... most of it I moved to the trash can. I went out and got some random office supplies and I feel very spiffy and organized. {nid CN}
+
+I think we're rolling out a new system on Thursday so I'm going to try and be here for that. I start Sunday... sweet. {nid CO}
+
+<nowiki>* Does the "I'm not on third shift anymore" dance*</nowiki> {nid CP}
+
+I'm going to a math lecture tonight with my friend Jenn, it's called [http://www.indiana.edu/~deanfac/patten/diaconis_patten.htm On Consequences] and it looks very interesting.  {nid CQ}
+
+

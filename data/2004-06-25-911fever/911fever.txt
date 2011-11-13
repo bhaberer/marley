@@ -1,0 +1,28 @@
+{{
+categories:
+image:
+  name: "Garden"
+  link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+  url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Oliver, Kitties, Linux and Moore
+
+So I'm still here. I've been busy these past couple weeks and haven't had a lot of time to blog... but really I'm a slacker. I've been out of my groove the past couple of weeks which has been fun, if taxing.
+
+So I'm still here. I've been busy these past couple weeks and haven't had a lot of time to blog... but really I'm a slacker. I've been out of my groove the past couple of weeks which has been fun, if taxing.
+
+The week before last I attended the second session of the Unix EdCert here at UITS. It went fine for the most part. We covered devices, and firewalls and basics of security and file systems. Fun Stuff. But, the classes are easy enough to be fun and challenging enough to be interesting. I passed it of course, and I only have one more session before I'm certified Unix competent by UITS/UWSG, so that's exciting.
+
+That weekend [[Jenn]] and I went to the Oliver winery.  It was a great time, we got to sample a lot of the wines that we had wanted to try but hadn't wanted to get a whole bottle, like the Muscat Canelli, Beanblossom Blush, and Maximum Port.  It was a very nice day Jenn and I went on the Winery tour and then got a bottle of Muscat Canelli and a baguette and some cheese and had a little picnic. It was very sweet. I really liked Oliver's Maximum Port, which was pretty good, it packs a punch tho. I had such a wonderful time with [[Jenn]] lots of love for her :)
+
+On Tuesday I popped down to Evansville to have dinner with my Dad, I was going to try to make it down for the funeral of my Great Aunt. I missed the funeral because my boss wanted to take Tuesday off for some reason *sigh* oh well. We had a nice dinner, and then I went and visited with my mom and worked on her computer for a while. Replaced her video card. I think she needs some upgrades.
+
+I've been working a lot on stuff for work... we've found a lot of bad security practices on machines I would prefer not to mention. I'm working to fix them but like anything at IU, it's taking time. Meh.
+
+Today [[Jenn]] and I went to the animal shelter to look at strays and found a really cool cat that we were going to try to adopt, it was a neat grey cat. But we think that someone else put in an application before us and might get him. If we don't get him I think i eventually want to get a cat. Cleo is cool but she's very much Jenn's cat.
+
+Finally, we went and saw Fahrenheit 9/11 tonight. I think it was pretty cool. the show was very much sold out, which was cool. We're choir members tho, so Moore's preaching to us didn't do much help. I recommend it anyone who is open to hearing the truth behind our bullshit president.
+
+But that's it for now... I'll try to write more, but no promises. ;)
+

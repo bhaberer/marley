@@ -1,0 +1,24 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# I'm not dead... honest.
+
+So... lots to update. {nid 1YM}
+
+So... lots to update. {nid 1YM}
+
+At work I've started rotating to half the time on day shift. And, as a result I've started working on the Inventory system again. It's mostly working now, I've got the basic database structure and webUI going. I'm working on adding more features and getting the new MYSQL stuff going (I was using SQLite before, and it was nowhere near as strict) in preparation for all the extra data I'm going to have to start tracking. Evidently I'm going to be tracking machines power data and the Finance Office's IU tag numbers... meh. Should be fun integrating all this crap. Or Not ^_^ {nid 1YN}
+
+While not at work I've been watching lot of a new anime called [http://en.wikipedia.org/wiki/Bleach_%28anime%29 Bleach]. It's an incredibly good anime that a guy I used to work with in Evansville got me addicted to... that link is to the wikipedia entry for the series. [http://a.scarywater.net/lunar/ Lunar] is a group that is fan subbing the series, you can download all 54 episodes from their web page. Highly recommended, etc, etc. The manga is available at [http://www.bleach7.com http://www.bleach7.com] I haven't downloaded any yet so I don't know how good it is, but I can only guess that it's worth while. {nid 1YO}
+
+In the land of Warcraft I've been very busy. The guild I run, [http://wowguild.net Requiem] is kicking ass, we are up to [http://www.wowrankings.com/guild_profile.htm?name=Requiem&s_id=94 about 150-250] members. We are progressing through the end game pretty well. We finished [http://www.wowwiki.com/Molten_Core The Molten Core] and killing [http://www.wowwiki.com/Onyxia's_Lair Onyxia] has become far too easy. We are starting to move through [http://www.worldofwarcraft.com/info/underdev/blackwing.html Blackwing Lair] but scheduling and coordination is being a pita. The stuff in BWL is an order of magnitude above the stuff we have been killing in the Molten Core, and we haven't been able to make much of a dent in the zone yet. They also added the zone [http://www.worldofwarcraft.com/info/underdev/zulgurub.html Zul'Gurub] and that's been a lot of fun figuring out, but we've finally gotten it beaten. Personally, I have my [http://wow.allakhazam.com/profile.html?79298 60 Druid] decked out, and I've started working on my [http://wow.allakhazam.com/profile.html?79335 40 Warlock], my [http://wow.allakhazam.com/profile.html?373616 32 Hunter] and my [http://wow.allakhazam.com/profile.html?128579 25 Mage]. They all kick ass and take names. {nid 1YP}
+
+Things with Jenn are going good. The Wedding site is up [http://brianandjennswedding.com http://brianandjennswedding.com]. Things between Jenn and I are going very well... well I think they are anyway, ask her and she might give you the real answer. ;) I try to keep her sane, and make her laugh at least once a day. I'm convinced it's good for her... he-he. We're going to Hawaii for Thanksgiving with my father this year, and it should be awesome. Can't turn down a free ticket to Hawaii can you? ^_^ We're also going out to Cali for Jenn's father's wedding/Christmas. Should be fun stuff :) {nid 1YQ}
+
+That's all for now... I'll blather more later. {nid 1YR}
+

@@ -1,0 +1,30 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# I have a gadget fetish.
+
+So I've been drooling over the [http://direct.motorola.com/ENS/Web_full_specs.asp?Country=USA&language=ENS&productid=30334&strPrimaryOption=FS&lSecondaryOption=-1 Motorola Razr V3s] for a long time. And, since my Sprint contract has been up for like a year now, I felt the need to trade up my old [http://www.phonescoop.com/phones/phone.php?p=139 Samsung Phone]. All that was left was for Best Buy to discount them to a stupid level... and so now I have a Happy Shiny Silver Razr.
+
+So I've been drooling over the [http://direct.motorola.com/ENS/Web_full_specs.asp?Country=USA&language=ENS&productid=30334&strPrimaryOption=FS&lSecondaryOption=-1 Motorola Razr V3s] for a long time. And, since my Sprint contract has been up for like a year now, I felt the need to trade up my old [http://www.phonescoop.com/phones/phone.php?p=139 Samsung Phone]. All that was left was for Best Buy to discount them to a stupid level... and so now I have a Happy Shiny Silver Razr. {nid 20C}
+
+I spent most of the evening playing with it. It has a lot of features that Cingular would love to charge me to access. (I would hold it against them, but sprint was just as bad) So I noticed that the phone is both a) popular geek chic and b) equipped with a native USB connection. The cingular people didn't want to encourage me by giving me a USB cable, but the phone uses one of the standard cables, and my old Neuros USB 1.1 cable worked like a charm. {nid 20D}
+
+A few minutes of surfing torrent sites yielded several pieces of software to make my life less painful. First there was an application from Motorola that let me type all my contacts in and such, that was useful. I also found an application called p2kman that allowed me to access the 'locked' files on my phone (the stock backgrounds and ring tones are all locked, so I have like 30-40% of my phones memory taken up by cingular and Motorola stupidity. {nid 20E}
+
+I'm going to take a crack at flexlashing the phone, which should (in theory) enable video recording and remove all cingular branding... which would be a good thing. But it carries a risk of borking the phone royally so I'm not rushing into the ordeal. However I also downloaded the official Motorola repair software so if I really fuck things up I can just wipe the phone and reinstall the OS, there's a boot-loader and everything. {nid 20F}
+
+God I love being a dork sometimes. This shit is great fun. {nid 20G}
+
+Soon there will be a need for more gadget buying. My Neuros has died... again... and I'm not sending it in again I don't think. I'm hoping the Neuros 3 will be a little less stupid, or I'll be trading up for some other music player. I'm liking the iPod Nanos, even tho the lack of ogg support on iPods makes baby Jesus cry. {nid 20H}
+
+The iPod video units are kind of snazzy, but since they also support like none of the video formats I use, that would be pain beyond measure to convert like 400gb of video. Screw that. Hopefully I can locate a good xVid portable. {nid 20I}
+
+I've also been pondering some kind of portable video / internet device. JasonCook showed me a link to a sexy [http://europe.nokia.com/nokia/0,1522,,00.html?orig=/770 Nokia 770 Tablet] that would be an excellent laptop alternative. I'm not sure if getting a full fledged laptop is what I need, or if a I just need like a tablet a portable DVD player. *shrug* {nid 20J}
+
+I'm not a huge proponent of what I like to think of as the Dick Tracy Watch Phenomenon, so I like to get specific devices to do specific things. Like when I got my Razr, my first concern was not that it couldn't take high res digital pictures. I have a digital camera for that. But I digress... and it's getting late... 4am, Jenn's gonna be sore with me ^_^ so I guess I shall go to bed now. {nid 20K}
+

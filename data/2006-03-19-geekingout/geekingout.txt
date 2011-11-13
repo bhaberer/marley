@@ -1,0 +1,37 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Geeking Out.
+
+So, I had a good day. BUT FIRST, news.
+
+So, I had a good day. BUT FIRST, news.
+
+I have finally finished my [http://www.mythtv.org/ MythTV] machine. MythTV is basically a FreeSoftware TIVO. Right now I'm just testing [[Ark]] to see if the hardware is sufficient, and compatible... So far so good. I'm having a lot of fun with the software, although I'm mainly using it as a glorified mplayer box for now. It kinda looks like this:
+
+[http://mythtv.sourceforge.net/mc/mythvideo5.png Video Browser] (With auto IMDB queries for movie posters!)
+
+[http://mythtv.sourceforge.net/mc/mweather2.png Weather Lookup]
+
+Next month I'm going to try and find some money to get a TV Tuner card so I can start using the best parts of the software. Although the built in emulators are pretty cool.
+
+But, anyway, on to recent events. I took a 5 day weekend over Break, I took Tues and wed nights off, as well as Saturday night. So I've been relaxing and having a nice break from working in my cube. It was also nice to spend some days with Jenn, I haven't gotten to do that much recently. I love you Jenn! <3 
+
+Last night I went out and celebrated St. Patrick's day and had a few [http://en.wikipedia.org/wiki/Irish_car_bomb Car Bombs] (most politically incorrect drink name ever) and a Pint of Guinness (I got to keep my cool pint glass). Good times.
+
+Today I got to geek out hardcore with [[Boco]] and BrettSmith. I met up with BrettSmith for lunch at SushiBar. (ImageBlog has a few pictures from lunch) The idea for a gaming/anime binge was offered up, and I accepted since I have not been able to partake in a gaming geek binge in some time.
+
+[[Boco]] was back in town, and was convinced to partake as well. We met up at my place and played [http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures The Legend of Zelda: Four Swords Adventures] for several hours. LoZ:FSA is a four player GameCube game where you basically play coop Zelda, it's pretty bad-ass, and you get to pick people up and toss them into lava if they piss you off!
+
+Anyway, after that Pizza from Avers was ordered, and there was much rejoicing. While we waited for Avers Pizza, I showed Brett several episodes of this bazaar anime that [[Boco]] pointed me to... called [http://en.wikipedia.org/wiki/Yakitate_Japan Yakitate!! Japan]. It's an anime about a kid who makes bread. It's just awesome, and hilarious.
+
+After pizza there was lots of NES games played. Good stuff. [[Jenn]] went to bed and I used this as a diabolical excuse to head to [[Boco]]s and play We Love Katamari and Guilty Gear. There were many good times Guilty Gear is a kick ass fighting game with a lot of weird possessed, or cross-dressing characters. There was even one who was throwing dolphins at me... fun stuff.
+
+Now I am home, and about to head to bed... I pilfered a pile of anime from [[Boco]]. I took the boxxed set of [http://en.wikipedia.org/wiki/Excel_Saga Excel Saga], boxxed set of [http://en.wikipedia.org/wiki/Haibane-Renmei Haibane Renmei], the first volume of [http://en.wikipedia.org/wiki/Noir_%28anime%29 Noir], and the Series [http://en.wikipedia.org/wiki/The_Big_O The Big O] (batman, with ROBOTS!). 
+
+Good times, great vacation. :)

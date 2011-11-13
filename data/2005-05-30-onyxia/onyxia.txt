@@ -1,0 +1,29 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+Onyxia 
+
+(continued from [http://weirdo513.org/blog/blosxom/index.cgi/2005/05/26#stuffnoonecaresabout here])
+'Anyhow. I don't really grok what you mean when you say you organized the group -- I get a picture in my head of you saying "Come on, everyone, let's go kill the thing". It seems like it must be more complex than that, though. Can you elaborate?' - Paulv {nid 1T1}
+
+Sure. In order to do an event like this I have to have scheduled it at least 3 or so days in advance. About an hour before the meet up time (in this case 7:00pm CST) I have to be on talking to other people on the server checking the status of their guild members to see if everyone is actually going to show up for the damn thing.  {nid 1T2}
+
+The event in question was to enter the lair of the most bad ass Dragon in existance, and slay her. To enter the lair each member of the 40 person group (the max number of people you can take is capped at 40, and the encounter is balanced by the devs for 40 experienced people) has to complete a 20 stage process that can days or weeks to complete depending on the person. The reward of the process is a "Key" to the lair. Basically the password to get in. The final step alone takes a 15 person group 2 hours to complete if they are lucky and has to be repeated for each member.  {nid 1T3}
+
+I spend the time from about 6:30 to 8:00 sending private messages to people to see if they want to come, do they have their keys, how soon can they come, when do they have to leave, etc. Assuming we find the people we need to go, I have to decide who can come by weighing the advantages and disadvantages of bringing people of different classes, skill levels, guilds, etc. As well as dealing with politics and occasional inter-guild hostility while trying to keep 40 people with perma-add on task and not just running around like idiots seeing who can kill the most rats on the docks or something else remarkably stupid. {nid 1T4}
+
+Assuming all this goes off without a hitch, We proceed to head to the location of the lair, and enter it and get everyone set up, about 10 minutes of prep work is done to make sure everyone is is properly "Buffed", or has all the proper beneficial spells/effect on them. This sounds dumb but each of the 40 members has to have about 4-8 buffs placed on them in order to be effective.  {nid 1T5}
+
+Every member of the party is connected to voice chat via [http://www.ventrilo.com Ventrilo] a voice chat program we use. I start explaining the process of traveling through the lair to the actual Dragon itself, which takes about 5 minutes, we proceed to the end of the area to where the dragon actually is which takes another 20-30 mins and I start going over the 15 minute long fight in detail, calling out where the different groups should be going, where people need to be during the stages of the fight, basically choreographing the activities of 40 people.  {nid 1T6}
+
+We go in, and attempt the fight. I spend the time screaming my ass off at people, and directing the fight. If we fail, and it's easy to fail, we have to start all over again after a break for about 15-30 mins. A four run night can easy go from 7:00-12:00pm if people keep fucking up.  {nid 1T7}
+
+That's probably way more than anyone ever wanted to know, but *shrug* {nid 1T8}
+
+But the good news is that after 4 nights (Wed - Sat) of running it over and over again.... [http://www.wowguild.net/index.php?option=com_content&task=view&id=25&Itemid=2 We killed that Damn Dragon].  {nid 1T9}
+

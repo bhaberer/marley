@@ -1,0 +1,22 @@
+{{
+  categories:
+    - ussg
+    - uits
+  image_id: 1764930651
+}}
+
+# R.I.P. U.S.S.G.
+
+So today I found out that my job as I know it, no longer exists. 
+
+So today I found out that my job as I know it, no longer exists. 
+
+So before you freak out, I did not and will not "lose my job". But, the job that I will have in a week or two will not be the job I had last week. Essentially the group I work for, the Unix Systems Support Group got shattered in the most recent UITS reorganization here at IU. My group no longer exists, and two of the team members will join a three people from another division that got shaken up, and form a 'New USSG' under the moniker of the Grid Infrastructure Group. 
+
+Myself and a colleague got shifted to a different department altogether. Basically what happened is that my group did a lot of grunt work for the division, as well as doing all of the Unix and Linux help desk support for the campus. So now they have split the grunt work and support off into different divisions at UITS. This means my job has changed from 'Sysadmin/Programmer/Linux Support/Teaching" to "Support/Teaching" which feels immensely less useful to further my career. I got to meet my new coworkers today, and they seem like nice enough guys, and like 3-4 years ago it would have been an amazing opportunity, but I think it's not quite what I'm looking for in a position right now... But, nothing is known about anything related to the new position at this point so it's hard for me to really make any kind of assessment. 
+
+I'm not sure what I am going to do at this point, I have another coworker encouraging me to apply for a sysadmin job in his department, and a friend encouraging me to apply for a job with his private company, so I'm not without options at this point. The whole 'not having a job' situation isn't what I'm worried about in this whole mess. 
+
+Both myself and my coworker who got moved are of like mind in that we didn't leave our last jobs to work in this new department, we came to work for specifically for the USSG, and while that doesn't mean much for a lot of people who read this blog, it means a lot to me to finally be working for this group. It's pretty depressing to finally get to a place where you're happy and content (albeit underpaid) in your job, to enjoy your work and be excited to come in to work, to enjoy your coworkers and your boss, and to look forward to each and every group meeting because you know it's going to be punctuated by intense laughter only to have that taken away. 
+
+My manager keeps insisting that everything is going to be alright, but I have been here too long to be at all optimistic about these kinds of things.

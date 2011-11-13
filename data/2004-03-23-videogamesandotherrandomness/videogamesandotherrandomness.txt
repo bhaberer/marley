@@ -1,0 +1,20 @@
+{{
+categories:
+image:
+  name: "Garden"
+  link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+  url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# More Stuff.
+
+I had a nice day yesterday, I had work in the morning where I finally finished my log-harvester for WhatsUp. Which was good. JoeBlaylock came by my cube midday and we went and had some LaughingPlanet for lunch.
+
+I had a nice day yesterday, I had work in the morning where I finally finished my log-harvester for WhatsUp. Which was good. JoeBlaylock came by my cube midday and we went and had some LaughingPlanet for lunch.
+
+After work I went to the climbing gym but since it's Monday they were closed... I need to stop driving all the way there before I remember that... I'm dumb. On the way home I stopped by the mall and got a couple video games to keep me entertained, and I need to get used to playing them since the Lanwar is coming up in a week or two.
+
+Later in the evening I went over and hung out with [[Jenn]] for a few hours before I came home and fell asleep.
+
+I'm at work trudging through converting some mailing lists from Majordomo to Listserve. And I'm hunting down how to do user authentication on my web server. Yea... that's almost as boring as it sounds... after work I think I'm going to hang out with JoeBlaylock and check out the climbing wall he's built in his basement. Fun stuff. 
+

@@ -1,0 +1,16 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# The Blog lives!
+
+The webserver is running again.  {nid 1EA}
+
+If you used to have an account on the system please let me know, and I'll fix things back up for you. The old blog entries are borked, their timestamps got removed, if I get a chance soonish I'll restamp them all and put them back up.  {nid 1EB}
+
+Things will most likely be brokenish for a while while I figure out what's missing and restore from backups as needed. {nid 1EC}
+

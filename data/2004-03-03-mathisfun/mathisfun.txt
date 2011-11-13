@@ -1,0 +1,24 @@
+{{
+categories:
+image:
+  name: "Garden"
+  link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+  url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Math is fun!
+
+I went with Jenn to see a math  lecture at the FineArts building last night... it was pretty cool. Jenn was running a little late so we were some of the astonishingly large crowd that had to sit on the floor.
+
+I went with Jenn to see a math  lecture at the FineArts building last night... it was pretty cool. Jenn was running a little late so we were some of the astonishingly large crowd that had to sit on the floor. 
+
+The lecture was pretty interesting, it was about Consequential Probability.
+
+The main example he gave was to think about how many people you think it would take to have a group with equal odds that two people would have the same birthday. The answer was actually 23... he gave the formula
+
+::''n = 1.2 * sqrt(c)'' 
+
+Where n is the number of people you would need for equal odds, and c is the number of categories. so 1.2 sqrt(365) = 22.9. He also told a lot of stories about debunking ESP people and about card tricks and stuff... it was all fascinating. 
+
+Thanks to Jenn for the invite, I think I may goto his second speech that is supposed to be tomorrow.
+

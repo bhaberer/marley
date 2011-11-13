@@ -1,0 +1,25 @@
+{{
+  categories:
+  image:
+    name: "Garden"
+    link: "http://www.flickr.com/photos/weirdo513/2827592548/in/set-72157605905856197/"
+    url:  "http://farm4.static.flickr.com/3130/2827592548_e013d1c794_m.jpg"
+}}
+
+# Yay for competent networking people... or something.
+
+(My brain is hurting and I'm a little loopy, so pardon any nonsensical wordings) {nid RF}
+
+So yesterday I came into work and had one of the longest nights I can remember. The network was freaking out all night, the switch for the machine room was just going insane... up for 30 minutes then down for 23; up for 15; down for 45. It was a nightmare... people couldn't fix problems because of all the network problems.  {nid RG}
+
+So that was hellish combined with my bitterness about being on 3rds, and the blah feeling of being sick. I was so ready to go home. But WayneMartin decided he wanted to have a chat with me. So he jumps into how he feels bad, and how we're both victims of the UITS machine, and how he doesn't need to deal with this cause he's getting his masters (in some unnamed field), and something about a paragraph and something about talking to the discrimination board or something... and I was so tired I just nodded until he shut up and then I went home.  {nid RH}
+
+When I got up later on I got a call from [[Jenn]] who was feeling horrible. I went over and took her to the doctor's office. She now is on some scary antibiotic for a few days. Poor Jenn :( {nid RI}
+
+I took her home and made her some dinner (steamed veggies and vegetarian 'chicken nuggets'... yum) and fussed over her for a while. We sat outside and listened to the rain for a while... it was nice.  {nid RJ}
+
+I came into work tonight to discover that the slackers in the NOC hadn't gotten the problem fixed. So we've been having a pretty steady random network flakiness for the past 26-32 hours. That's just insane. (Note: I'm sorry to the people who a) can't take a subtle joke, and b) think that my right to free speech doesn't count) {nid RK}
+
+Well that's all my brain wants to let me type for now... I think I'm going to take a nap for an hour or two since the place has calmed down a bit. {nid RL}
+
+

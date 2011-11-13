@@ -1,0 +1,53 @@
+{{
+  categories:
+    - amazon
+    - music
+    - software
+    - drm
+  image_id: 5249174403
+}}
+
+# Amazon MP3 > ITMS
+
+After the particularly horrid Amazon Unboxed EULA I was a little hesitant to jump into Amazon's semi new mp3 downloading service, even if the signs seemed to indicate that they had gotten it right. However, last night I decided to give it a shot.
+
+After the particularly horrid Amazon Unboxed EULA I was a little hesitant to jump into Amazon's semi new mp3 downloading service, even if the signs seemed to indicate that they had gotten it right. However, last night I decided to give it a shot.
+
+Downloading a Song
+------------------
+
+I'd had been having an impulse to listen to 'Such Great Heights' by The Postal Service; it's one of those songs that makes me smile. So, hopped on amazon.com and found it in the MP3 area and tried to buy it.
+
+I got prompted to download some software, which was kind of sketchy. I guess people who are used to ITMS might like something that keeps track of their shit for them (upon further use, the downloader just facilitates downloads, it doesn't track state across multiple downloads or organize your purchases), especially given that you only can download these songs once (I'll get to that later). You don't have to download it for single songs, but you do need to use it to download a full album.
+
+So then I have to agree to a fairly benign TOU (Yes I read it) and then I get a download of my song. Pretty simple.
+
+Songs are 256kbs, come with all the info you could want filled in for you, even album art attached to the songs, which is nice since iTunes likes to just store the album art somewhere instead of actually saving it to the fucking file, but I digress. Let us try to get an album.
+
+Downloading an Album
+--------------------
+
+There's and album I've been meaning to purchase, Discovery by Daft Punk. So I'll give the installer a shot to save $4.52 off the price of my album.
+
+Clicked to buy the album, prompted again to download the MP3 Downloader, and this time it's not optional.
+
+I download the installer and click through the prompts, bonus points to Amazon for using Firefox based images in their documentation instead of assuming that I'm using IE. Finish the install and instantly I'm redirected to a page and ready to buy my album, which was a little creepy, but very convenient. I go ahead and click the button to buy, and get prompted to open an *.amx file. This is the batch file the service uses to download songs via the downloader.
+
+I open the file like it suggests, and the downloader opens and starts downloading. Which is what one would expect it to do.
+
+![Downloader](http://tmp.weirdo513.org/blog_assets/downloader-working.png)
+
+The files are saved to my drive, and the downloader stayed open (Bad) but I closed it easily and it went away (Good). It added the files to iTunes automatically (Good) and keeps a copy in a local directory (Good). I copied them to another machine in my house to test their non DRM nature, and they worked without a hitch (Good!).
+
+There is one thing that is good to mention, once you download the song/album you're on your own as far as Amazon is concerned. (Bad) This is acceptable, as I've already made a few copies of my song, and can't find any DRM or tracking. I'm happy to trade repeat downloads for the ability to keep my song where I want, play it in the player I want, and not worry about people getting pissed at me for it. Go Amazon++
+
+Final Thoughts
+--------------
+
+This is the best option out there for downloading music that I have found. I really hope people take advantage of this channel of distribution. Downloads are quick, easy, and put in the right place. The software is unobtrusive, minimalistic, and free from ulterior motives. The one objection I have is that people with Linux as their primary OS are going to be screwed when it comes to downloading albums, as I don't see a Linux downloader at the current time.
+
+The need for the downloader is based on the 'one download only' policy that Amazon has in place. I guess downloading an album either meant some sort of automatic sequential downloading or using a single file to move the album to be processed as a batch somewhere. I personally would have just moved all purchases to a holding facility on the Amazon website and just allowed users to right download each file once at their leisure. This would have eliminated the fairly glaring problem that buying albums pose to a Linux user. However, to be fair, you can still download most if not all of the songs. You just cannot take advantage of the deals on full albums, which is very lame but not unusable.
+
+I'll be using this service from now on, and I encourage others to do the same.
+
+Now, how about we do something about that piece of shit unboxed service so someone in their right mind would use it? 

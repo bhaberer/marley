@@ -1,0 +1,25 @@
+{{
+  categories:
+    - socialtext
+    - rupture
+    - ea
+  image_id: 4158125683
+}}
+
+# Farewell Socialtext
+
+It's true, I've decided to leave Socialtext.
+
+It's true, I've decided to leave Socialtext. The choice didn't come easy, but I'm fairly confident that it will ultimately be the correct decision. My last day with the company will be late next week.
+
+I've spent the last year working for Socialtext. During that time I've watched the product evolve into a very slick social software suite, and seen the company grow in leaps and bounds. I was hoping to be able to stay the course until Socialtext "Made it Big" as they say, but I've been presented with an opportunity that's far too amazing to pass up. I'm going to miss many of my coworkers and friends at Socialtext, but hopefully I'll be able to keep in touch, and catch up with people when they visit the bay for the next Socialtext face-to-face meeting.
+
+But, where am I going?
+
+I'm sure that if you've been paying attention to this blog of mine at all you'll recall my immense excitement about the product of a small bay area startup headed by Shawn Fanning called Rupture. I started doing beta testing and bug reporting for Rupture back before I had left UITS, and in the back of my mind the thought "Man. it would be so cool to work for these guys." ran through my mind on more than one occasion.
+
+Well, I now work for Rupture. I'm working on the details now, but I should be moving out to the bay area sometime in the next 2-4 weeks. I plan to be moved and working there at the start of November. Things are moving very quickly, and it's more than a little intimidating.
+
+The most amazing part of this whole series of frankly insane events, is that a few months back EA acquired Rupture. This means that I will be working for a smallish social-gaming-company that I love, with people I get along with pretty well, while also working for one of the largest video game companies in the world.
+
+To say that I'm excited, would be an understatement of considerable proportions.

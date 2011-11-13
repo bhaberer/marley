@@ -1,0 +1,49 @@
+{{
+  categories:
+  image_id: 2827592548
+}}
+
+# Generic Journal Entry Title #3506
+
+Laptops and iPods and classes, oh my!
+
+Portable Computing Returns!
+---------------------------
+
+So, I think a month and a half without a real laptop was just about enough for me. I was forced to use my old Dell CPx (600mhz 128mb ram) for a few weeks. I think I was going through some serious withdrawal without my trusty portable link to the internets. I may require professional help, or at least more vespene gas.
+
+However, I won’t have to worry about that anymore! My Dell XPS M1330 came today, and I’ve been playing with it a lot. I’ll probably post a review at some point, but no time for that right now.
+
+With the reintroduction of a laptop into my life I suspect my blogging activity, and general association with all things social, will increase a bit. I tend to use my main computer for all things fluffy and video game related and save my laptop for all things social and programming related. Clear delineation of workspaces helps my mind maintain the sorely lacking focus needed to function.
+
+Since I play a lot of WoW (which is full screen) there’s no real estate left for things like IRC, AIM, RSS feeds and the like. So, they get relegated to obscurity until I emerge from my gaming stupor, usually after everyone’s gone to bed. But no longer! I hope to be back in a big way. I’m even going to take a few days here and there and maybe work from friends houses (shocking) or places downtown, you know outside... in the sun and everything.Good times will indeed be had by all.
+
+My bank account is crying as we speak.
+--------------------------------------
+
+In the realm of technology; I saw the Apple announcement, and I plan on getting one of them thar new fangled iPod touch gadgets. But first I must get Jenn her new iPod classic that was her big birthday/christmas gift. Nothing says love like 160gb of storage with a Futurama quote etched on the back.
+
+When the iPhone came out, I fell in love with the design of the device, but I didn’t want to get locked into a phone. “I want an iPhone, that’s less than 400, with no phone, and a bigger flash disk.” I remarked to a friend. Little did I know that that friend of mine was a secret Apple spy sent to tap my mind for the future of portable audio. Well played Apple…. well played.
+
+My love for multi touch interfaces has been abundant ever since I saw Jeff Han’s famous multi touch panel demonstration video last year:
+
+Jeff Han is just amazingly neat. I just saw that he spun off from the university and formed a company. (Perceptive Pixel) Where he’s continuing to work on large and amazing multi touch interfaces. Hit up the website and check out the video, I love this kind of stuff. Almost makes me want to get into HCI… but not quite.
+
+Today is the car of the cdr of your life
+----------------------------------------
+
+Taking classes again this semester. This semester I’m taking CSCI-B351, Intro to AI. So far it’s not been too bad. The hardest part has been brushing up on my scheme skills that have lain dormant for 6 years. I finished the first programming assignment with only a minor amount of head scratching, so here’s hoping that the rest of the class will go swimmingly. If not, I will go forth and bug Boco and Joe, for they both took this class already.
+
+By my count I should only have about 10 classes left for my degree. I hope to be done in aprox 2 years. If events occur in such a way that I have to take a 20 credit hour semester in order to graduate in a proper time-frame to make IU happy, then I’ll just have to do that. After talking with my academic adviser it seems that that is a non issue assuming I don’t drag it out too much longer, so here’s hoping.
+
+I still need the following to graduate:
+
+    CSCI-B351 - Intro to AI, taking this right now.
+    INFO I320 - Distributed Systems and Collaborative Computing.
+    2x 300-400 INFO Classes that don’t count for major. I haven’t found the two I’ll be selecting quite yet.
+    INFO I450 - Senior Thesis.
+    ENGL W231 - Intensive writing.
+    5 Credits of Nat Sci (one class must have a lab)
+    (122 - (ending credit total)) credits of electives. (I think I’m at like 80 credits right now)
+
+So, here’s hoping those last few classes move by swiftly. Having a degree would be a nice feather in my cap. It’s only taken me eight years. Stupid career.
